@@ -122,7 +122,8 @@
 ##  Typography 
  - [Let's Talk About Margins](https://medium.com/message/lets-talk-about-margins-14646574c385)
 - [A 17th-Century Font in a 21st-Century Thesis](https://www.linyangchen.com/Typography-Fell-Types-font)
-- [The Doves Type, Revisited](https://www.typeroom.eu/the-doves-type-revisited-robert-green-upgrades-an-iconic-typeface) 
+- [The Doves Type, Revisited](https://www.typeroom.eu/the-doves-type-revisited-robert-green-upgrades-an-iconic-typeface)
+- [History of the Shavian Keyboard Imperial Good Companion Portable Typewriter](https://oztypewriter.blogspot.com/2014/04/history-of-shavian-keyboard-imperial.html) 
  
 ##  Urbanism 
  - [50 Reasons Why Everyone Should Want More Walkable Streets](https://www.fastcompany.com/3062989/50-reasons-why-everyone-should-want-more-walkable-streets)
