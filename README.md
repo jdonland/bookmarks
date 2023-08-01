@@ -42,7 +42,8 @@
 - [Why Is English So Weirdly Different From Other Languages?](https://aeon.co/essays/why-is-english-so-weirdly-different-from-other-languages)
 - [Why Language Might Be the Optimal Self-Regulating System](https://aeon.co/essays/why-language-might-be-the-optimal-self-regulating-system)
 - [IPA: Symbols of Power?](http://pronpack.com/ipa-symbols-of-power/2/)
-- [The Vowel Space](https://www.englishspeechservices.com/blog/the-vowel-space/) 
+- [The Vowel Space](https://www.englishspeechservices.com/blog/the-vowel-space/)
+- [The World's Writing Systems](https://www.worldswritingsystems.org/) 
  
 ##  Learning 
  - [How To Understand Things](https://nabeelqu.co/understanding)
@@ -72,7 +73,8 @@
 - [It's All Bullsh*t! On the Relationship Between Pseudoscience and Pseudophilosophy](https://medium.com/socrates-cafe/its-all-bullshit-on-the-relationship-between-pseudoscience-and-pseudophilosophy-3485ade26500)
 - [The Normative Status of Logic](https://plato.stanford.edu/entries/logic-normative/)
 - [Use and Mention](https://cs.lmu.edu/~ray/notes/usemention/)
-- [Zhuangzi and That Bloody Butterfly](https://philosophynow.org/issues/76/Zhuangzi_And_That_Bloody_Butterfly) 
+- [Zhuangzi and That Bloody Butterfly](https://philosophynow.org/issues/76/Zhuangzi_And_That_Bloody_Butterfly)
+- [So You Want to Study Philosophy...](https://www.susanrigetti.com/philosophy) 
  
 ##  Poetry & Short Fiction 
  - [MMAcevedo](https://qntm.org/mmacevedo)
@@ -95,7 +97,8 @@
 - [Finish Your Projects](https://github.com/readme/guides/finish-your-projects) 
  
 ##  Psychology 
- - [Why Aren't Smart People Happier?](https://experimentalhistory.substack.com/p/why-arent-smart-people-happier) 
+ - [Why Aren't Smart People Happier?](https://experimentalhistory.substack.com/p/why-arent-smart-people-happier)
+- [Notes on Puzzles](https://nabeelqu.substack.com/p/notes-on-puzzles) 
  
 ##  Style 
  - [How To Develop Good Taste, Pt. 1](https://dieworkwear.com/2022/08/26/how-to-develop-good-taste-pt-1/)
@@ -141,4 +144,5 @@
 - [Americans Spend Too Much Time in Cars. The Solution Is Simple.](https://slate.com/business/2023/06/suburbs-driving-traffic-housing-affordable-solutions.html)
 - [São Paulo: The City With No Outdoor Advertisements](https://www.amusingplanet.com/2013/07/sao-paulo-city-with-no-outdoor.html)
 - [The Hidden Force That Shapes Everything Around Us: Parking](https://www.vox.com/23712664/parking-lots-urban-planning-cities-housing)
-- [Motornomativity: How Social Norms Hide a Major Public Health Hazard](https://psyarxiv.com/egnmj) 
+- [Motornomativity: How Social Norms Hide a Major Public Health Hazard](https://psyarxiv.com/egnmj)
+- [What Affordable Housing Actually Means](https://darrellowens.substack.com/p/what-affordable-housing-actually) 
