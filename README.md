@@ -42,8 +42,7 @@
 - [Why Is English So Weirdly Different From Other Languages?](https://aeon.co/essays/why-is-english-so-weirdly-different-from-other-languages)
 - [Why Language Might Be the Optimal Self-Regulating System](https://aeon.co/essays/why-language-might-be-the-optimal-self-regulating-system)
 - [IPA: Symbols of Power?](http://pronpack.com/ipa-symbols-of-power/2/)
-- [The Vowel Space](https://www.englishspeechservices.com/blog/the-vowel-space/)
-- [The World's Writing Systems](https://www.worldswritingsystems.org/) 
+- [The Vowel Space](https://www.englishspeechservices.com/blog/the-vowel-space/) 
  
 ##  Learning 
  - [How To Understand Things](https://nabeelqu.co/understanding)
@@ -126,7 +125,8 @@
  - [Let's Talk About Margins](https://medium.com/message/lets-talk-about-margins-14646574c385)
 - [A 17th-Century Font in a 21st-Century Thesis](https://www.linyangchen.com/Typography-Fell-Types-font)
 - [The Doves Type, Revisited](https://www.typeroom.eu/the-doves-type-revisited-robert-green-upgrades-an-iconic-typeface)
-- [History of the Shavian Keyboard Imperial Good Companion Portable Typewriter](https://oztypewriter.blogspot.com/2014/04/history-of-shavian-keyboard-imperial.html) 
+- [History of the Shavian Keyboard Imperial Good Companion Portable Typewriter](https://oztypewriter.blogspot.com/2014/04/history-of-shavian-keyboard-imperial.html)
+- [The World's Writing Systems](https://www.worldswritingsystems.org/) 
  
 ##  Urbanism 
  - [50 Reasons Why Everyone Should Want More Walkable Streets](https://www.fastcompany.com/3062989/50-reasons-why-everyone-should-want-more-walkable-streets)
