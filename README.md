@@ -119,7 +119,8 @@
 - [The False Promise of ChatGPT](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html)
 - [We Need More of Richard Stallman, Not Less](https://ploum.net/2023-06-19-more-rms.html)
 - [Generative AI Should Not Replace Thinking at My University](https://www.theatlantic.com/ideas/archive/2023/06/generative-artificial-intelligence-universities/674473/)
-- [How and Why I Stopped Buying New Laptops](https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops/) 
+- [How and Why I Stopped Buying New Laptops](https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops/)
+- [Splitting the Web](https://ploum.net/2023-08-01-splitting-the-web.html) 
  
 ##  Typography 
  - [Let's Talk About Margins](https://medium.com/message/lets-talk-about-margins-14646574c385)

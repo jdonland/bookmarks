@@ -1,3 +1,5 @@
+library(tidyverse)
+
 read_csv("bookmarks.csv") |>
   arrange(category, date_added) |>
   mutate(markdown_link = paste0("- [", title, "](", url, ")"),
