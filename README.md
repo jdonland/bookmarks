@@ -93,7 +93,8 @@
 - [How a Lazy Bitch Like Me Learned To Be Productive](https://www.madisontaskett.com/lazy-bastard-productivity/)
 - [The Case Against Collaboration](https://paulitaylor.com/2022/05/06/the-case-against-collaboration/)
 - [Effective Spaced Repetition](https://borretti.me/article/effective-spaced-repetition#bidirectionality)
-- [Finish Your Projects](https://github.com/readme/guides/finish-your-projects) 
+- [Finish Your Projects](https://github.com/readme/guides/finish-your-projects)
+- [Stopping at 90%](https://austinhenley.com/blog/90percent.html) 
  
 ##  Psychology 
  - [Why Aren't Smart People Happier?](https://experimentalhistory.substack.com/p/why-arent-smart-people-happier)
