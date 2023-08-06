@@ -121,7 +121,8 @@
 - [We Need More of Richard Stallman, Not Less](https://ploum.net/2023-06-19-more-rms.html)
 - [Generative AI Should Not Replace Thinking at My University](https://www.theatlantic.com/ideas/archive/2023/06/generative-artificial-intelligence-universities/674473/)
 - [How and Why I Stopped Buying New Laptops](https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops/)
-- [Splitting the Web](https://ploum.net/2023-08-01-splitting-the-web.html) 
+- [Splitting the Web](https://ploum.net/2023-08-01-splitting-the-web.html)
+- [TikTok's Enshittificatino](https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys) 
  
 ##  Typography 
  - [Let's Talk About Margins](https://medium.com/message/lets-talk-about-margins-14646574c385)
