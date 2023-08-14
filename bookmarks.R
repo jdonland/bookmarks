@@ -1,7 +1,8 @@
 library(readr)
 library(dplyr)
+library(stringr)
 
-read_csv("bookmarks.csv") |>
+read_csv("bookmarks.csv", show_col_types = F) |>
   arrange(category, date_added) |>
   mutate(markdown_link = paste0("- [", title, "](", url, ")"),
          category = paste("\n## ", str_to_title(category)),

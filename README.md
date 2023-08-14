@@ -45,6 +45,9 @@
 - [IPA: Symbols of Power?](http://pronpack.com/ipa-symbols-of-power/2/)
 - [The Vowel Space](https://www.englishspeechservices.com/blog/the-vowel-space/) 
  
+##  Languages 
+ - [mi kama sona e toki pona or Something](https://cohost.org/mcc/post/59045-mi-kama-sona-e-toki) 
+ 
 ##  Learning 
  - [How To Understand Things](https://nabeelqu.co/understanding)
 - [How To Self-Study Math](https://www.youtube.com/watch?v=fb_v5Bc8PSk)
