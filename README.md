@@ -46,7 +46,8 @@
 - [The Vowel Space](https://www.englishspeechservices.com/blog/the-vowel-space/) 
  
 ##  Languages 
- - [mi kama sona e toki pona or Something](https://cohost.org/mcc/post/59045-mi-kama-sona-e-toki) 
+ - [mi kama sona e toki pona or Something](https://cohost.org/mcc/post/59045-mi-kama-sona-e-toki)
+- [Rhyme Theory](https://blog.chaselambda.com/2022/05/07/rhyme-theory.html) 
  
 ##  Learning 
  - [How To Understand Things](https://nabeelqu.co/understanding)
@@ -98,7 +99,8 @@
 - [The Case Against Collaboration](https://paulitaylor.com/2022/05/06/the-case-against-collaboration/)
 - [Effective Spaced Repetition](https://borretti.me/article/effective-spaced-repetition#bidirectionality)
 - [Finish Your Projects](https://github.com/readme/guides/finish-your-projects)
-- [Stopping at 90%](https://austinhenley.com/blog/90percent.html) 
+- [Stopping at 90%](https://austinhenley.com/blog/90percent.html)
+- [In This Essay I Will: On Distraction](https://www.theparisreview.org/blog/2023/08/23/in-this-essay-i-will-on-distraction/) 
  
 ##  Psychology 
  - [Why Aren't Smart People Happier?](https://experimentalhistory.substack.com/p/why-arent-smart-people-happier)
@@ -126,7 +128,8 @@
 - [Generative AI Should Not Replace Thinking at My University](https://www.theatlantic.com/ideas/archive/2023/06/generative-artificial-intelligence-universities/674473/)
 - [How and Why I Stopped Buying New Laptops](https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops/)
 - [Splitting the Web](https://ploum.net/2023-08-01-splitting-the-web.html)
-- [TikTok's Enshittificatino](https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys) 
+- [TikTok's Enshittificatino](https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys)
+- [Use RSS](https://blog.gabrielsimmer.com/posts/use-rss/) 
  
 ##  Typography 
  - [Let's Talk About Margins](https://medium.com/message/lets-talk-about-margins-14646574c385)
