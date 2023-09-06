@@ -10,7 +10,8 @@
 - [104 Mesmerizing Mosque Ceilings That Highlight The Wonders Of Islamic Architecture](https://www.boredpanda.com/mosque-ceilings/)
 - [Tauba Aurebach](https://taubaauerbach.com/works.php)
 - [Mœbius](https://www.iamag.co/the-art-of-moebius/)
-- [The Codex Seraphinianus](https://www.thebeliever.net/the-codex-seraphinianus/) 
+- [The Codex Seraphinianus](https://www.thebeliever.net/the-codex-seraphinianus/)
+- [Kjetil Golid](https://generated.space/) 
  
 ##  Consumer Goods 
  - [How To Judge Quality in Clothing](https://putthison.com/how-to-judge-quality-in-clothing/)
