@@ -45,10 +45,8 @@
 - [Why Language Might Be the Optimal Self-Regulating System](https://aeon.co/essays/why-language-might-be-the-optimal-self-regulating-system)
 - [IPA: Symbols of Power?](http://pronpack.com/ipa-symbols-of-power/2/)
 - [The Vowel Space](https://www.englishspeechservices.com/blog/the-vowel-space/)
-- [The World's Writing Systems](https://www.worldswritingsystems.org/) 
- 
-##  Languages 
- - [mi kama sona e toki pona or Something](https://cohost.org/mcc/post/59045-mi-kama-sona-e-toki)
+- [The World's Writing Systems](https://www.worldswritingsystems.org/)
+- [mi kama sona e toki pona or Something](https://cohost.org/mcc/post/59045-mi-kama-sona-e-toki)
 - [Rhyme Theory](https://blog.chaselambda.com/2022/05/07/rhyme-theory.html) 
  
 ##  Learning 
