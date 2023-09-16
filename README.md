@@ -16,7 +16,6 @@
 ##  Consumer Goods 
  - [How To Judge Quality in Clothing](https://putthison.com/how-to-judge-quality-in-clothing/)
 - [Shaving Is Too Expensive. Also the World Is Out To Get You](https://www.johnwhiles.com/posts/shaving)
-- [The Kitchen Starter Kit: Essential Tools for Every Cook](https://www.seriouseats.com/basic-starter-kitchen-equipment)
 - [Your Stuff Is Actually Worse Now](https://www.vox.com/the-goods/23529587/consumer-goods-quality-fast-fashion-technology) 
  
 ##  Culture & Politics 
@@ -25,7 +24,10 @@
 - [A Decade of Sore Winners](https://theoutline.com/post/8484/sore-winners-decade)
 - [What Moneyball-for-Everything Has Done to American Culture](https://www.theatlantic.com/newsletters/archive/2022/10/sabermetrics-analytics-ruined-baseball-sports-music-film/671924/)
 - [We Live In The Age of The Bullshitter](https://www.currentaffairs.org/2022/12/we-live-in-the-age-of-the-bullshitter)
-- [The Age of Average](https://www.alexmurrell.co.uk/articles/the-age-of-average)
+- [The Age of Average](https://www.alexmurrell.co.uk/articles/the-age-of-average) 
+ 
+##  Food & Cooking 
+ - [The Kitchen Starter Kit: Essential Tools for Every Cook](https://www.seriouseats.com/basic-starter-kitchen-equipment)
 - [Everything I, an Italian, Thought I Knew About Italian Food Is Wrong](https://www.ft.com/content/6ac009d5-dbfd-4a86-839e-28bb44b2b64c) 
  
 ##  Games 
