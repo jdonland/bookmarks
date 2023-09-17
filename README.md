@@ -93,7 +93,8 @@
 - [All of the Words on a Bottle of Rolling Rock Beer in a Different Order](https://expatriotact.blogspot.com/2006/10/poets-corner-demetri-martin.html)
 - [To Explicate Meaning](https://pastebin.com/raw/kFML7mRK)
 - [Kansas, 4 A.M.](https://www.newyorker.com/magazine/2023/04/17/kansas-4-am-kim-addonizio-poem)
-- [Nausicaä](https://www.newyorker.com/magazine/2023/06/12/nausicaa-frank-x-gaspar-poem) 
+- [Nausicaä](https://www.newyorker.com/magazine/2023/06/12/nausicaa-frank-x-gaspar-poem)
+- [Crows](https://www.newyorker.com/magazine/2000/09/25/crows) 
  
 ##  Productivity 
  - [Productivity 101: An Introduction to The Pomodoro Technique](https://lifehacker.com/productivity-101-a-primer-to-the-pomodoro-technique-1598992730)
