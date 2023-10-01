@@ -109,6 +109,7 @@
  
 ##  Psychology 
  - [Why Aren't Smart People Happier?](https://experimentalhistory.substack.com/p/why-arent-smart-people-happier)
+- [The Curse of Knowledge When Predicting Others' Knowledge](https://link.springer.com/article/10.3758/s13421-022-01382-3)
 - [Notes on Puzzles](https://nabeelqu.substack.com/p/notes-on-puzzles) 
  
 ##  Style 
