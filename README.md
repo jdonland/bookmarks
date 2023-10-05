@@ -135,7 +135,8 @@
 - [How and Why I Stopped Buying New Laptops](https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops/)
 - [Splitting the Web](https://ploum.net/2023-08-01-splitting-the-web.html)
 - [TikTok's Enshittification](https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys)
-- [Use RSS](https://blog.gabrielsimmer.com/posts/use-rss/) 
+- [Use RSS](https://blog.gabrielsimmer.com/posts/use-rss/)
+- [Corny AI](https://www.johndcook.com/blog/2023/10/02/corny-ai/) 
  
 ##  Typography 
  - [Let's Talk About Margins](https://medium.com/message/lets-talk-about-margins-14646574c385)
