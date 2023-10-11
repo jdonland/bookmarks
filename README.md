@@ -16,7 +16,8 @@
 ##  Consumer Goods 
  - [How To Judge Quality in Clothing](https://putthison.com/how-to-judge-quality-in-clothing/)
 - [Shaving Is Too Expensive. Also the World Is Out To Get You](https://www.johnwhiles.com/posts/shaving)
-- [Your Stuff Is Actually Worse Now](https://www.vox.com/the-goods/23529587/consumer-goods-quality-fast-fashion-technology) 
+- [Your Stuff Is Actually Worse Now](https://www.vox.com/the-goods/23529587/consumer-goods-quality-fast-fashion-technology)
+- [What Happened to Sweaters?](https://www.theatlantic.com/technology/archive/2023/10/sweater-clothing-quality-natural-fibers-fast-fashion/675600/) 
  
 ##  Culture & Politics 
  - [Canada Is Fake](https://theoutline.com/post/8686/canada-is-fake)
