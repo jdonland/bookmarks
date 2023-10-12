@@ -68,7 +68,8 @@
 - [Line Goes Up – The Problem With NFTs](https://www.youtube.com/watch?v=YQ_xWvX1n9g)
 - [Pricing Money](http://www.jdawiseman.com/books/pricing-money/Pricing_Money_JDAWiseman.html)
 - [Airlines Are Just Banks Now](https://www.theatlantic.com/ideas/archive/2023/09/airlines-banks-mileage-programs/675374/)
-- [The Misunderstood Kelly Criterion](https://two-wrongs.com/the-misunderstood-kelly-criterion) 
+- [The Misunderstood Kelly Criterion](https://two-wrongs.com/the-misunderstood-kelly-criterion)
+- [Poor People Pay Higher Time Tax](https://pluralistic.net/2023/02/10/my-time/) 
  
 ##  Music 
  - [Blood on the Frets](https://web.archive.org/web/20211205225924/https://www.johnfahey.com/Blood.htm)
