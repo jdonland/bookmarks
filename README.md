@@ -162,5 +162,6 @@
 - [The Hidden Force That Shapes Everything Around Us: Parking](https://www.vox.com/23712664/parking-lots-urban-planning-cities-housing)
 - [Motornomativity: How Social Norms Hide a Major Public Health Hazard](https://psyarxiv.com/egnmj)
 - [What Affordable Housing Actually Means](https://darrellowens.substack.com/p/what-affordable-housing-actually)
-- [Not Just Bikes](https://www.youtube.com/@NotJustBikes/videos?view=0&sort=p&shelf_id=0)
-- [Is Urban Cycling Worth the Risk?](https://ig.ft.com/sites/urban-cycling/) 
+- [Is Urban Cycling Worth the Risk?](https://ig.ft.com/sites/urban-cycling/)
+- [Hey, Bike Haters, You Will Lose the Culture War You’re Starting](https://nyc.streetsblog.org/2023/10/12/hey-bike-haters-you-will-lose-the-culture-war-youre-starting)
+- [Urbanism: Insidious Globalist Conspiracy or Self-Evident Common Sense?](https://www.youtube.com/watch?v=NzBMAwZlVd8) 
