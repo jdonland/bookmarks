@@ -29,7 +29,10 @@
  
 ##  Food & Cooking 
  - [The Kitchen Starter Kit: Essential Tools for Every Cook](https://www.seriouseats.com/basic-starter-kitchen-equipment)
-- [Everything I, an Italian, Thought I Knew About Italian Food Is Wrong](https://www.ft.com/content/6ac009d5-dbfd-4a86-839e-28bb44b2b64c) 
+- [Everything I, an Italian, Thought I Knew About Italian Food Is Wrong](https://www.ft.com/content/6ac009d5-dbfd-4a86-839e-28bb44b2b64c)
+- [Sous Vide Cooking: How to Get Started](https://www.seriouseats.com/first-thing-to-cook-with-sous-vide-immersion-circulator-essential-recipes)
+- [How to Knead, Fold, and Shape Sourdough Bread](https://www.seriouseats.com/sourdough-how-to)
+- [Breadmaking 101: How to Troubleshoot Bad Bread](https://www.seriouseats.com/troubleshoot-bad-bread-messed-up-loaf) 
  
 ##  Games 
  - [Hangman Is a Weird Game](https://www.youtube.com/watch?v=le5uGqHKll8)
