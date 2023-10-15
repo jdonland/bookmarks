@@ -1,18 +1,4 @@
 
-##  Art 
- - [Jerry's Map](https://www.jerrysmap.com/what-is-it)
-- [Ragna Róbertsdóttir](https://i8.is/artists/39-ragna-robertsdottir/)
-- [M. C. Escher](https://mcescher.com/gallery/)
-- [Piet Mondrian](https://www.piet-mondrian.org/paintings.jsp)
-- [Henry Darger](https://www.saraayers.com/darger.htm)
-- [Gerd Arntz](http://www.gerdarntz.org/)
-- [François Avril](https://www.francoisavril.com/peintures/)
-- [104 Mesmerizing Mosque Ceilings That Highlight The Wonders Of Islamic Architecture](https://www.boredpanda.com/mosque-ceilings/)
-- [Tauba Aurebach](https://taubaauerbach.com/works.php)
-- [Mœbius](https://www.iamag.co/the-art-of-moebius/)
-- [The Codex Seraphinianus](https://www.thebeliever.net/the-codex-seraphinianus/)
-- [Kjetil Golid](https://generated.space/) 
- 
 ##  Consumer Goods 
  - [How To Judge Quality in Clothing](https://putthison.com/how-to-judge-quality-in-clothing/)
 - [Shaving Is Too Expensive. Also the World Is Out To Get You](https://www.johnwhiles.com/posts/shaving)
@@ -168,3 +154,17 @@
 - [Is Urban Cycling Worth the Risk?](https://ig.ft.com/sites/urban-cycling/)
 - [Hey, Bike Haters, You Will Lose the Culture War You’re Starting](https://nyc.streetsblog.org/2023/10/12/hey-bike-haters-you-will-lose-the-culture-war-youre-starting)
 - [Urbanism: Insidious Globalist Conspiracy or Self-Evident Common Sense?](https://www.youtube.com/watch?v=NzBMAwZlVd8) 
+ 
+##  Visual Art 
+ - [Jerry's Map](https://www.jerrysmap.com/what-is-it)
+- [Ragna Róbertsdóttir](https://i8.is/artists/39-ragna-robertsdottir/)
+- [M. C. Escher](https://mcescher.com/gallery/)
+- [Piet Mondrian](https://www.piet-mondrian.org/paintings.jsp)
+- [Henry Darger](https://www.saraayers.com/darger.htm)
+- [Gerd Arntz](http://www.gerdarntz.org/)
+- [François Avril](https://www.francoisavril.com/peintures/)
+- [104 Mesmerizing Mosque Ceilings That Highlight The Wonders Of Islamic Architecture](https://www.boredpanda.com/mosque-ceilings/)
+- [Tauba Aurebach](https://taubaauerbach.com/works.php)
+- [Mœbius](https://www.iamag.co/the-art-of-moebius/)
+- [The Codex Seraphinianus](https://www.thebeliever.net/the-codex-seraphinianus/)
+- [Kjetil Golid](https://generated.space/) 
