@@ -26,7 +26,9 @@
 - [1000 Blank White Cards Wiki](https://1kbwc.fandom.com/wiki/1000_Blank_White_Cards_Wiki)
 - [Zendo: Design History](http://www.koryheath.com/zendo/design-history/)
 - [Babamots' Homeworlds Site](https://jpeterbaker.github.io/homeworlds/site/index.html)
-- [Two-Letter Scrabble Words](https://erich-friedman.github.io/random/2letter.html) 
+- [Two-Letter Scrabble Words](https://erich-friedman.github.io/random/2letter.html)
+- [Playing to Win](https://www.sirlin.net/ptw)
+- [Solvability](https://www.sirlin.net/articles/solvability) 
  
 ##  Language 
  - [Utopian for Beginners](https://www.newyorker.com/magazine/2012/12/24/utopian-for-beginners)
