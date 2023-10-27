@@ -75,10 +75,8 @@
 - [Zhuangzi and That Bloody Butterfly](https://philosophynow.org/issues/76/Zhuangzi_And_That_Bloody_Butterfly)
 - [So You Want to Study Philosophy...](https://www.susanrigetti.com/philosophy) 
  
-##  Poetry & Short Fiction 
- - [MMAcevedo](https://qntm.org/mmacevedo)
-- [Second Person, Present Tense](https://www.baen.com/Chapters/9781618248992/9781618248992___2.htm)
-- [Want Song](https://www.mtpr.org/2015-07-13/want-song)
+##  Poetry 
+ - [Want Song](https://www.mtpr.org/2015-07-13/want-song)
 - [Autopsy](https://pastebin.com/raw/npCuYjLj)
 - [Miscreant Insects](https://twitter.com/mogwai_poet/status/1335354217335148546)
 - [Two-Headed Calf](https://rolfpotts.com/two-headed-calf-by-laura-gilpin/)
@@ -88,7 +86,8 @@
 - [Kansas, 4 A.M.](https://www.newyorker.com/magazine/2023/04/17/kansas-4-am-kim-addonizio-poem)
 - [Nausicaä](https://www.newyorker.com/magazine/2023/06/12/nausicaa-frank-x-gaspar-poem)
 - [Crows](https://www.newyorker.com/magazine/2000/09/25/crows)
-- [Nothing Is Too Small Not To Be Wondered About](https://thevalueofsparrows.wordpress.com/2017/05/20/poetry-nothing-is-too-small-not-to-be-wondered-about-by-mary-oliver/) 
+- [Nothing Is Too Small Not To Be Wondered About](https://thevalueofsparrows.wordpress.com/2017/05/20/poetry-nothing-is-too-small-not-to-be-wondered-about-by-mary-oliver/)
+- [Meat Eater No. 5](https://www.newyorker.com/magazine/2023/10/30/meat-eater-no-5-carmen-maria-machado-poem) 
  
 ##  Productivity 
  - [Productivity 101: An Introduction to The Pomodoro Technique](https://lifehacker.com/productivity-101-a-primer-to-the-pomodoro-technique-1598992730)
@@ -103,6 +102,11 @@
  - [Why Aren't Smart People Happier?](https://experimentalhistory.substack.com/p/why-arent-smart-people-happier)
 - [The Curse of Knowledge When Predicting Others' Knowledge](https://link.springer.com/article/10.3758/s13421-022-01382-3)
 - [Notes on Puzzles](https://nabeelqu.substack.com/p/notes-on-puzzles) 
+ 
+##  Short Fiction 
+ - [MMAcevedo](https://qntm.org/mmacevedo)
+- [Second Person, Present Tense](https://www.baen.com/Chapters/9781618248992/9781618248992___2.htm)
+- [Upstate](https://www.newyorker.com/magazine/2023/10/30/upstate-fiction-emma-cline) 
  
 ##  Style 
  - [How To Develop Good Taste, Pt. 1](https://dieworkwear.com/2022/08/26/how-to-develop-good-taste-pt-1/)
@@ -129,7 +133,8 @@
 - [TikTok's Enshittification](https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys)
 - [Use RSS](https://blog.gabrielsimmer.com/posts/use-rss/)
 - [Corny AI](https://www.johndcook.com/blog/2023/10/02/corny-ai/)
-- [The Negative Impact of Mobile-First Web Design on Desktop](https://www.nngroup.com/articles/content-dispersion/) 
+- [The Negative Impact of Mobile-First Web Design on Desktop](https://www.nngroup.com/articles/content-dispersion/)
+- [Internet Artifacts](https://neal.fun/internet-artifacts/) 
  
 ##  Typography 
  - [Let's Talk About Margins](https://medium.com/message/lets-talk-about-margins-14646574c385)
