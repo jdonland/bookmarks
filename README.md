@@ -1,9 +1,13 @@
 
+##  Bicycles 
+ - [Sheldon Brown's Bicycle Technical Information](https://www.sheldonbrown.com/) 
+ 
 ##  Consumer Goods 
  - [How To Judge Quality in Clothing](https://putthison.com/how-to-judge-quality-in-clothing/)
-- [Shaving Is Too Expensive. Also the World Is Out To Get You](https://www.johnwhiles.com/posts/shaving)
+- [Shaving Is Too Expensive](https://www.johnwhiles.com/posts/shaving)
 - [Your Stuff Is Actually Worse Now](https://www.vox.com/the-goods/23529587/consumer-goods-quality-fast-fashion-technology)
-- [What Happened to Sweaters?](https://www.theatlantic.com/technology/archive/2023/10/sweater-clothing-quality-natural-fibers-fast-fashion/675600/) 
+- [What Happened to Sweaters?](https://www.theatlantic.com/technology/archive/2023/10/sweater-clothing-quality-natural-fibers-fast-fashion/675600/)
+- [Why Every Microwave Sucks These Days, and the Death of Instant Pot](https://moth.monster/blog/microwaves/) 
  
 ##  Culture & Politics 
  - [Canada Is Fake](https://theoutline.com/post/8686/canada-is-fake)
