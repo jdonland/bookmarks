@@ -21,22 +21,19 @@
 - [1000 Blank White Cards Wiki](https://1kbwc.fandom.com/wiki/1000_Blank_White_Cards_Wiki)
 - [Zendo: Design History](http://www.koryheath.com/zendo/design-history/)
 - [Babamots' Homeworlds Site](https://jpeterbaker.github.io/homeworlds/site/index.html)
-- [Two-Letter Scrabble Words](https://erich-friedman.github.io/random/2letter.html)
 - [Playing to Win](https://www.sirlin.net/ptw)
 - [Solvability](https://www.sirlin.net/articles/solvability) 
  
 ##  Language 
  - [Utopian for Beginners](https://www.newyorker.com/magazine/2012/12/24/utopian-for-beginners)
 - [The Interpreter](https://www.newyorker.com/magazine/2007/04/16/the-interpreter-2)
-- [No Béarla](https://www.youtube.com/playlist?list=PLu3FFxdgya4yyUopIHeKyMCBrZq5lr3fV)
 - [What Consonant Clusters Are Possible?](https://www.tandfonline.com/doi/pdf/10.1080/00437956.1978.11435661)
 - [Why Is English So Weirdly Different From Other Languages?](https://aeon.co/essays/why-is-english-so-weirdly-different-from-other-languages)
 - [Why Language Might Be the Optimal Self-Regulating System](https://aeon.co/essays/why-language-might-be-the-optimal-self-regulating-system)
 - [IPA: Symbols of Power?](http://pronpack.com/ipa-symbols-of-power/2/)
 - [The Vowel Space](https://www.englishspeechservices.com/blog/the-vowel-space/)
 - [The World's Writing Systems](https://www.worldswritingsystems.org/)
-- [mi kama sona e toki pona or Something](https://cohost.org/mcc/post/59045-mi-kama-sona-e-toki)
-- [Rhyme Theory](https://blog.chaselambda.com/2022/05/07/rhyme-theory.html) 
+- [mi kama sona e toki pona or Something](https://cohost.org/mcc/post/59045-mi-kama-sona-e-toki) 
  
 ##  Learning 
  - [How To Understand Things](https://nabeelqu.co/understanding)
@@ -48,7 +45,6 @@
 - [The Singular Pursuit of Comrade Bezos](https://medium.com/s/story/the-singular-pursuit-of-comrade-bezos-3e280baa045c)
 - [Finding and Funding a Good Life](https://www.pwlcapital.com/wp-content/uploads/2022/11/2022-04-25_PWL_WP_Felix_Finding_and_Funding_Good_Life_V2.pdf)
 - [The Homeownership Society Was a Mistake](https://www.theatlantic.com/newsletters/archive/2022/12/homeownership-real-estate-investment-renting/672511/)
-- [Yes, Crypto is ALL a Scam](https://www.stephendiehl.com/blog/crypto-is-a-scam.html)
 - [Maybe Treating Housing as an Investment was a Colossal, Society-Shattering Mistake](https://goodreason.substack.com/p/maybe-treating-housing-as-an-investment)
 - [On the Phenomenon of Bullshit Jobs](https://www.atlasofplaces.com/essays/on-the-phenomenon-of-bullshit-jobs/)
 - [Pricing Money](http://www.jdawiseman.com/books/pricing-money/Pricing_Money_JDAWiseman.html)
@@ -96,7 +92,6 @@
  
 ##  Psychology 
  - [Why Aren't Smart People Happier?](https://experimentalhistory.substack.com/p/why-arent-smart-people-happier)
-- [The Curse of Knowledge When Predicting Others' Knowledge](https://link.springer.com/article/10.3758/s13421-022-01382-3)
 - [Notes on Puzzles](https://nabeelqu.substack.com/p/notes-on-puzzles) 
  
 ##  Short Fiction 
@@ -117,8 +112,6 @@
 - [How To Take Back the Internet by Choosing the Internet Less Traveled](https://cheapskatesguide.org/articles/take-back-the-internet.html)
 - [The Old Internet Shows Signs of Quietly Coming Back](https://cheapskatesguide.org/articles/old-internet-coming-back.html)
 - [Why I Still Use RSS](https://atthis.link/blog/2021/rss.html)
-- [12ft Ladder](https://12ft.io/)
-- [TinyWow](https://tinywow.com/)
 - [Why We Should Have Markdown Rendered Websites](https://ipfs.io/ipfs/bafybeid7lt7snuzcvcmfqs5a5hlc5fmk3xmflz4hx2qa7c674vm3rpsdvm/why-we-should-have-markdown-rendered-websites.html)
 - [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
 - [The False Promise of ChatGPT](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html)
@@ -135,8 +128,7 @@
 ##  Typography 
  - [Let's Talk About Margins](https://medium.com/message/lets-talk-about-margins-14646574c385)
 - [A 17th-Century Font in a 21st-Century Thesis](https://www.linyangchen.com/Typography-Fell-Types-font)
-- [The Doves Type, Revisited](https://www.typeroom.eu/the-doves-type-revisited-robert-green-upgrades-an-iconic-typeface)
-- [History of the Shavian Keyboard Imperial Good Companion Portable Typewriter](https://oztypewriter.blogspot.com/2014/04/history-of-shavian-keyboard-imperial.html) 
+- [The Doves Type, Revisited](https://www.typeroom.eu/the-doves-type-revisited-robert-green-upgrades-an-iconic-typeface) 
  
 ##  Urbanism 
  - [50 Reasons Why Everyone Should Want More Walkable Streets](https://www.fastcompany.com/3062989/50-reasons-why-everyone-should-want-more-walkable-streets)
