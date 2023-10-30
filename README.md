@@ -18,7 +18,6 @@
 ##  Games 
  - [Hangman Is a Weird Game](https://www.youtube.com/watch?v=le5uGqHKll8)
 - [Angry Birds, Farmville and Other Hyperaddictive 'Stupid Games'](https://www.nytimes.com/2012/04/08/magazine/angry-birds-farmville-and-other-hyperaddictive-stupid-games.html)
-- [1000 Blank White Cards Wiki](https://1kbwc.fandom.com/wiki/1000_Blank_White_Cards_Wiki)
 - [Zendo: Design History](http://www.koryheath.com/zendo/design-history/)
 - [Babamots' Homeworlds Site](https://jpeterbaker.github.io/homeworlds/site/index.html)
 - [Playing to Win](https://www.sirlin.net/ptw)
@@ -111,7 +110,6 @@
 - [Socialism's DIY Computer](https://tribunemag.co.uk/2020/07/make-your-own-self-managed-socialist-microcomputer)
 - [How To Take Back the Internet by Choosing the Internet Less Traveled](https://cheapskatesguide.org/articles/take-back-the-internet.html)
 - [The Old Internet Shows Signs of Quietly Coming Back](https://cheapskatesguide.org/articles/old-internet-coming-back.html)
-- [Why I Still Use RSS](https://atthis.link/blog/2021/rss.html)
 - [Why We Should Have Markdown Rendered Websites](https://ipfs.io/ipfs/bafybeid7lt7snuzcvcmfqs5a5hlc5fmk3xmflz4hx2qa7c674vm3rpsdvm/why-we-should-have-markdown-rendered-websites.html)
 - [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
 - [The False Promise of ChatGPT](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html)
@@ -120,10 +118,9 @@
 - [How and Why I Stopped Buying New Laptops](https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops/)
 - [Splitting the Web](https://ploum.net/2023-08-01-splitting-the-web.html)
 - [TikTok's Enshittification](https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys)
-- [Use RSS](https://blog.gabrielsimmer.com/posts/use-rss/)
-- [Corny AI](https://www.johndcook.com/blog/2023/10/02/corny-ai/)
 - [The Negative Impact of Mobile-First Web Design on Desktop](https://www.nngroup.com/articles/content-dispersion/)
-- [Internet Artifacts](https://neal.fun/internet-artifacts/) 
+- [Internet Artifacts](https://neal.fun/internet-artifacts/)
+- [The Rise and Demise of RSS](https://twobithistory.org/2018/12/18/rss.html) 
  
 ##  Typography 
  - [Let's Talk About Margins](https://medium.com/message/lets-talk-about-margins-14646574c385)
@@ -143,8 +140,6 @@
 - [Americans Spend Too Much Time in Cars. The Solution Is Simple.](https://slate.com/business/2023/06/suburbs-driving-traffic-housing-affordable-solutions.html)
 - [São Paulo: The City With No Outdoor Advertisements](https://www.amusingplanet.com/2013/07/sao-paulo-city-with-no-outdoor.html)
 - [The Hidden Force That Shapes Everything Around Us: Parking](https://www.vox.com/23712664/parking-lots-urban-planning-cities-housing)
-- [Motornomativity: How Social Norms Hide a Major Public Health Hazard](https://psyarxiv.com/egnmj)
-- [What Affordable Housing Actually Means](https://darrellowens.substack.com/p/what-affordable-housing-actually)
 - [Is Urban Cycling Worth the Risk?](https://ig.ft.com/sites/urban-cycling/)
 - [Hey, Bike Haters, You Will Lose the Culture War You’re Starting](https://nyc.streetsblog.org/2023/10/12/hey-bike-haters-you-will-lose-the-culture-war-youre-starting)
 - [Urbanism: Insidious Globalist Conspiracy or Self-Evident Common Sense?](https://www.youtube.com/watch?v=NzBMAwZlVd8) 
