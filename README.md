@@ -1,7 +1,4 @@
 
-##  Bicycles 
- - [Sheldon Brown's Bicycle Technical Information](https://www.sheldonbrown.com/) 
- 
 ##  Consumer Goods 
  - [How To Judge Quality in Clothing](https://putthison.com/how-to-judge-quality-in-clothing/)
 - [Shaving Is Too Expensive](https://www.johnwhiles.com/posts/shaving)
@@ -15,14 +12,8 @@
 - [A Decade of Sore Winners](https://theoutline.com/post/8484/sore-winners-decade)
 - [What Moneyball-for-Everything Has Done to American Culture](https://www.theatlantic.com/newsletters/archive/2022/10/sabermetrics-analytics-ruined-baseball-sports-music-film/671924/)
 - [We Live In The Age of The Bullshitter](https://www.currentaffairs.org/2022/12/we-live-in-the-age-of-the-bullshitter)
-- [The Age of Average](https://www.alexmurrell.co.uk/articles/the-age-of-average) 
- 
-##  Food & Cooking 
- - [The Kitchen Starter Kit: Essential Tools for Every Cook](https://www.seriouseats.com/basic-starter-kitchen-equipment)
-- [Everything I, an Italian, Thought I Knew About Italian Food Is Wrong](https://www.ft.com/content/6ac009d5-dbfd-4a86-839e-28bb44b2b64c)
-- [Sous Vide Cooking: How to Get Started](https://www.seriouseats.com/first-thing-to-cook-with-sous-vide-immersion-circulator-essential-recipes)
-- [How to Knead, Fold, and Shape Sourdough Bread](https://www.seriouseats.com/sourdough-how-to)
-- [Breadmaking 101: How to Troubleshoot Bad Bread](https://www.seriouseats.com/troubleshoot-bad-bread-messed-up-loaf) 
+- [The Age of Average](https://www.alexmurrell.co.uk/articles/the-age-of-average)
+- [Everything I, an Italian, Thought I Knew About Italian Food Is Wrong](https://www.ft.com/content/6ac009d5-dbfd-4a86-839e-28bb44b2b64c) 
  
 ##  Games 
  - [Hangman Is a Weird Game](https://www.youtube.com/watch?v=le5uGqHKll8)
@@ -60,7 +51,6 @@
 - [Yes, Crypto is ALL a Scam](https://www.stephendiehl.com/blog/crypto-is-a-scam.html)
 - [Maybe Treating Housing as an Investment was a Colossal, Society-Shattering Mistake](https://goodreason.substack.com/p/maybe-treating-housing-as-an-investment)
 - [On the Phenomenon of Bullshit Jobs](https://www.atlasofplaces.com/essays/on-the-phenomenon-of-bullshit-jobs/)
-- [Line Goes Up – The Problem With NFTs](https://www.youtube.com/watch?v=YQ_xWvX1n9g)
 - [Pricing Money](http://www.jdawiseman.com/books/pricing-money/Pricing_Money_JDAWiseman.html)
 - [Airlines Are Just Banks Now](https://www.theatlantic.com/ideas/archive/2023/09/airlines-banks-mileage-programs/675374/)
 - [The Misunderstood Kelly Criterion](https://two-wrongs.com/the-misunderstood-kelly-criterion)
@@ -153,7 +143,6 @@
 - [What I Mean When I Say 'Ban Cars'](https://jalopnik.com/what-i-mean-when-i-say-ban-cars-1849122955)
 - [The People Who Hate People](https://www.theatlantic.com/ideas/archive/2022/05/population-growth-housing-climate-change/629952/)
 - [Stroads Are Ugly, Expensive, and Dangerous (and They're Everywhere)](https://www.youtube.com/watch?v=ORzNZUeUHAM)
-- [What's a Gadgetbahn?](https://www.cat-bus.com/2017/12/gadgetbahn/)
 - [Shifting Gears: Why US Cities Are Falling Out of Love With the Parking Lot](https://www.theguardian.com/us-news/2022/dec/26/us-cities-parking-lots-climate-walkability)
 - [There's No Such Thing as Affordable Housing](https://www.strongtowns.org/journal/2023/1/3/theres-no-such-thing-as-affordable-housing)
 - [Ivan Illich on Cars](https://ranprieur.com/readings/illichcars.html)
