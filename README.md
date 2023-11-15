@@ -120,7 +120,8 @@
 - [TikTok's Enshittification](https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys)
 - [The Negative Impact of Mobile-First Web Design on Desktop](https://www.nngroup.com/articles/content-dispersion/)
 - [Internet Artifacts](https://neal.fun/internet-artifacts/)
-- [The Rise and Demise of RSS](https://twobithistory.org/2018/12/18/rss.html) 
+- [The Rise and Demise of RSS](https://twobithistory.org/2018/12/18/rss.html)
+- [The Small Website Discoverability Crisis](https://www.marginalia.nu/log/19-website-discoverability-crisis/) 
  
 ##  Typography 
  - [Let's Talk About Margins](https://medium.com/message/lets-talk-about-margins-14646574c385)
