@@ -5,7 +5,7 @@ suppressPackageStartupMessages({
 })
 
 read_csv("bookmarks.csv", show_col_types = F) |>
-  arrange(category, date_added) |>
+  arrange(category, publication_date) |>
   mutate(markdown_link = paste0("- [", title, "](", url, ")"),
          category = paste("\n## ", str_to_title(category)),
          .keep = "none") |>
