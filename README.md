@@ -1,6 +1,7 @@
 
 ##  Architecture 
- - [A Dwelling for the Gods](https://www.theguardian.com/books/2002/jan/05/arts.highereducation) 
+ - [A Dwelling for the Gods](https://www.theguardian.com/books/2002/jan/05/arts.highereducation)
+- [Mesmerizing Mosque Ceilings](https://www.boredpanda.com/mosque-ceilings/) 
  
 ##  Consumer Goods 
  - [How To Judge Quality in Clothing](https://putthison.com/how-to-judge-quality-in-clothing/)
@@ -31,11 +32,11 @@
  - [What Consonant Clusters Are Possible?](https://www.tandfonline.com/doi/abs/10.1080/00437956.1978.11435661)
 - [The Interpreter](https://www.newyorker.com/magazine/2007/04/16/the-interpreter-2)
 - [Utopian for Beginners](https://www.newyorker.com/magazine/2012/12/24/utopian-for-beginners)
-- [The Vowel Space](https://www.englishspeechservices.com/blog/the-vowel-space/)
 - [Why Is English So Weirdly Different From Other Languages?](https://aeon.co/essays/why-is-english-so-weirdly-different-from-other-languages)
 - [Why Language Might Be the Optimal Self-Regulating System](https://aeon.co/essays/why-language-might-be-the-optimal-self-regulating-system)
 - [The World's Writing Systems](https://www.worldswritingsystems.org/)
 - [IPA: Symbols of Power?](http://pronpack.com/ipa-symbols-of-power/2/)
+- [Why These English Phonetic Symbols Are All Wrong](https://www.youtube.com/watch?v=gtnlGH055TA)
 - [mi kama sona e toki pona or Something](https://cohost.org/mcc/post/59045-mi-kama-sona-e-toki) 
  
 ##  Learning 
@@ -79,9 +80,9 @@
 - [Autopsy](https://pastebin.com/raw/npCuYjLj)
 - [Nothing Is Too Small Not To Be Wondered About](https://thevalueofsparrows.wordpress.com/2017/05/20/poetry-nothing-is-too-small-not-to-be-wondered-about-by-mary-oliver/)
 - [Miscreant Insects](https://twitter.com/mogwai_poet/status/1335354217335148546)
-- [Kansas, 4 A.M.](https://www.newyorker.com/magazine/2023/04/17/kansas-4-am-kim-addonizio-poem)
 - [Nausicaä](https://www.newyorker.com/magazine/2023/06/12/nausicaa-frank-x-gaspar-poem)
 - [Meat Eater No. 5](https://www.newyorker.com/magazine/2023/10/30/meat-eater-no-5-carmen-maria-machado-poem)
+- [The Keep](https://www.newyorker.com/magazine/2023/11/20/the-keep)
 - [To Explicate Meaning](https://pastebin.com/raw/kFML7mRK) 
  
 ##  Productivity 
@@ -117,6 +118,7 @@
 - [How and Why I Stopped Buying New Laptops](https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops/)
 - [How To Take Back the Internet by Choosing the Internet Less Traveled](https://cheapskatesguide.org/articles/take-back-the-internet.html)
 - [The Small Website Discoverability Crisis](https://www.marginalia.nu/log/19-website-discoverability-crisis/)
+- [Can "Distraction-Free" Devices Change the Way We Write?](https://www.newyorker.com/magazine/2021/12/20/can-distraction-free-devices-change-the-way-we-write)
 - [The Old Internet Shows Signs of Quietly Coming Back](https://cheapskatesguide.org/articles/old-internet-coming-back.html)
 - [Why We Should Have Markdown Rendered Websites](https://proofinprogress.com/posts/2022-11-10/why-we-should-have-markdown-rendered-websites.html)
 - [TikTok's Enshittification](https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys)
@@ -154,13 +156,12 @@
 ##  Visual Art 
  - [The Codex Seraphinianus](https://www.thebeliever.net/the-codex-seraphinianus/)
 - [Henry Darger](https://www.saraayers.com/darger.htm)
-- [Mesmerizing Mosque Ceilings](https://www.boredpanda.com/mosque-ceilings/)
 - [Jerry's Map](https://www.jerrysmap.com/what-is-it)
+- [The Impossible World of M. C. Escher](https://www.theguardian.com/artanddesign/2015/jun/20/the-impossible-world-of-mc-escher)
 - [Moebius and the Key of Dreams](https://www.theparisreview.org/blog/2015/10/21/moebius-and-the-key-of-dreams/)
 - [François Avril: Over the Window](https://hubertybreyne.com/en/expositions/presentation/142/over-the-window)
 - [1917‒2017, 100 Years of De Stijl](https://craigberry93.medium.com/1917-2017-100-years-of-de-stijl-581dcc95681)
 - [Interview with Generative Artist Kjetil Golid](https://www.artnome.com/news/2020/10/11/interview-with-generative-artist-kjetil-golid)
 - [Democratic Graphics: The Political and Graphic Work of Gerd Arntz 1920‒1940](https://designabilities.wordpress.com/2020/12/11/democratic-graphics-the-political-and-graphic-work-of-gerd-arntz-1920-1940/)
 - [Ragna Róbertsdóttir](https://www.artforum.com/events/ragna-robertsdottir-248913/)
-- [M. C. Escher](https://mcescher.com/gallery/)
-- [Tauba Aurebach](https://taubaauerbach.com/works.php) 
+- [Tauba Auerbach in 'Bodies of Knowledge'](https://art21.org/watch/art-in-the-twenty-first-century/s11/tauba-auerbach-in-bodies-of-knowledge/) 
