@@ -3,8 +3,12 @@
  - [A Dwelling for the Gods](https://www.theguardian.com/books/2002/jan/05/arts.highereducation)
 - [Mesmerizing Mosque Ceilings](https://www.boredpanda.com/mosque-ceilings/) 
  
+##  Cinema 
+ - [Review of American Eccentric Cinema](https://journals.openedition.org/inmedia/2342) 
+ 
 ##  Consumer Goods 
  - [How To Judge Quality in Clothing](https://putthison.com/how-to-judge-quality-in-clothing/)
+- [Things I Recommend You Buy and Use](https://s8mb.medium.com/things-i-recommend-you-buy-and-use-second-edition-457a8e7163f6)
 - [Shaving Is Too Expensive](https://www.johnwhiles.com/posts/shaving)
 - [Your Stuff Is Actually Worse Now](https://www.vox.com/the-goods/23529587/consumer-goods-quality-fast-fashion-technology)
 - [What Happened to Sweaters?](https://www.theatlantic.com/technology/archive/2023/10/sweater-clothing-quality-natural-fibers-fast-fashion/675600/)
@@ -130,7 +134,8 @@
 - [Internet Artifacts](https://neal.fun/internet-artifacts/) 
  
 ##  Typography 
- - [Type Hunting](https://typehunting.com/)
+ - [Notes on Type Design](https://help.fontlab.com/fontlab/8/tutorials/briem/)
+- [Type Hunting](https://typehunting.com/)
 - [Let's Talk About Margins](https://medium.com/message/lets-talk-about-margins-14646574c385)
 - [Counterspace Typography Timeline](https://timeline.counterspace.us/)
 - [A 17th-Century Font in a 21st-Century Thesis](https://www.linyangchen.com/Typography-Fell-Types-font)
