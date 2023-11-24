@@ -133,8 +133,9 @@
 - [The Negative Impact of Mobile-First Web Design on Desktop](https://www.nngroup.com/articles/content-dispersion/)
 - [Internet Artifacts](https://neal.fun/internet-artifacts/) 
  
-##  Typography 
- - [Notes on Type Design](https://help.fontlab.com/fontlab/8/tutorials/briem/)
+##  Typography & Handwriting 
+ - [A Handwriting Manual](https://archive.org/details/AHandwritingManual/)
+- [Notes on Type Design](https://help.fontlab.com/fontlab/8/tutorials/briem/)
 - [Type Hunting](https://typehunting.com/)
 - [Let's Talk About Margins](https://medium.com/message/lets-talk-about-margins-14646574c385)
 - [Counterspace Typography Timeline](https://timeline.counterspace.us/)
