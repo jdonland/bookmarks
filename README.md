@@ -136,6 +136,7 @@
 ##  Typography & Handwriting 
  - [A Handwriting Manual](https://archive.org/details/AHandwritingManual/)
 - [Notes on Type Design](https://help.fontlab.com/fontlab/8/tutorials/briem/)
+- [Three Typefaces for Mathematics](https://web.archive.org/web/20091229042035/http://www.typeculture.com/academic_resource/articles_essays/pdfs/tc_article_47.pdf)
 - [Type Hunting](https://typehunting.com/)
 - [Let's Talk About Margins](https://medium.com/message/lets-talk-about-margins-14646574c385)
 - [Counterspace Typography Timeline](https://timeline.counterspace.us/)
