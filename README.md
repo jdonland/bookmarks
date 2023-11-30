@@ -57,8 +57,7 @@
 - [The Homeownership Society Was a Mistake](https://www.theatlantic.com/newsletters/archive/2022/12/homeownership-real-estate-investment-renting/672511/)
 - [Poor People Pay Higher Time Tax](https://pluralistic.net/2023/02/10/my-time/)
 - [Maybe Treating Housing as an Investment was a Colossal, Society-Shattering Mistake](https://goodreason.substack.com/p/maybe-treating-housing-as-an-investment)
-- [Airlines Are Just Banks Now](https://www.theatlantic.com/ideas/archive/2023/09/airlines-banks-mileage-programs/675374/)
-- [The Misunderstood Kelly Criterion](https://two-wrongs.com/the-misunderstood-kelly-criterion) 
+- [Airlines Are Just Banks Now](https://www.theatlantic.com/ideas/archive/2023/09/airlines-banks-mileage-programs/675374/) 
  
 ##  Music 
  - [Blood on the Frets](https://web.archive.org/web/20211205225924/https://www.johnfahey.com/Blood.htm)
@@ -138,6 +137,7 @@
 - [Notes on Type Design](https://help.fontlab.com/fontlab/8/tutorials/briem/)
 - [Three Typefaces for Mathematics](https://web.archive.org/web/20091229042035/http://www.typeculture.com/academic_resource/articles_essays/pdfs/tc_article_47.pdf)
 - [Type Hunting](https://typehunting.com/)
+- [How to Write 225 Words Per Minute With a Pen](https://www.theatlantic.com/technology/archive/2014/06/yeah-i-still-use-shorthand-and-a-smartpen/373281/)
 - [Let's Talk About Margins](https://medium.com/message/lets-talk-about-margins-14646574c385)
 - [Counterspace Typography Timeline](https://timeline.counterspace.us/)
 - [A 17th-Century Font in a 21st-Century Thesis](https://www.linyangchen.com/Typography-Fell-Types-font)
