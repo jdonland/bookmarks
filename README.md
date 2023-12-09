@@ -141,6 +141,7 @@
 - [Let's Talk About Margins](https://medium.com/message/lets-talk-about-margins-14646574c385)
 - [Counterspace Typography Timeline](https://timeline.counterspace.us/)
 - [A 17th-Century Font in a 21st-Century Thesis](https://www.linyangchen.com/Typography-Fell-Types-font)
+- [Visual History of the Latin Alphabet](https://uclab.fh-potsdam.de/arete/en)
 - [The Doves Type, Revisited](https://www.typeroom.eu/the-doves-type-revisited-robert-green-upgrades-an-iconic-typeface) 
  
 ##  Urbanism 
