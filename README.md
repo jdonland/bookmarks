@@ -85,7 +85,7 @@
 - [Miscreant Insects](https://twitter.com/mogwai_poet/status/1335354217335148546)
 - [Nausicaä](https://www.newyorker.com/magazine/2023/06/12/nausicaa-frank-x-gaspar-poem)
 - [Meat Eater No. 5](https://www.newyorker.com/magazine/2023/10/30/meat-eater-no-5-carmen-maria-machado-poem)
-- [The Keep](https://www.newyorker.com/magazine/2023/11/20/the-keep)
+- [Disinhibitor](https://www.newyorker.com/magazine/2023/12/18/disinhibitor-ariana-reines-poem)
 - [To Explicate Meaning](https://pastebin.com/raw/kFML7mRK) 
  
 ##  Productivity 
@@ -149,6 +149,7 @@
 - [São Paulo: The City With No Outdoor Advertisements](https://www.amusingplanet.com/2013/07/sao-paulo-city-with-no-outdoor.html)
 - [50 Reasons Why Everyone Should Want More Walkable Streets](https://www.fastcompany.com/3062989/50-reasons-why-everyone-should-want-more-walkable-streets)
 - [Is Urban Cycling Worth the Risk?](https://ig.ft.com/sites/urban-cycling/)
+- [The Trouble with Billboards](https://adfreecities.org.uk/the-trouble-with-billboards/)
 - [Stroads Are Ugly, Expensive, and Dangerous (and They're Everywhere)](https://www.youtube.com/watch?v=ORzNZUeUHAM)
 - [The Housing Theory of Everything](https://worksinprogress.co/issue/the-housing-theory-of-everything)
 - [The People Who Hate People](https://www.theatlantic.com/ideas/archive/2022/05/population-growth-housing-climate-change/629952/)
