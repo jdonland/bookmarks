@@ -146,7 +146,6 @@
  
 ##  Urbanism 
  - [Ivan Illich on Cars](https://ranprieur.com/readings/illichcars.html)
-- [São Paulo: The City With No Outdoor Advertisements](https://www.amusingplanet.com/2013/07/sao-paulo-city-with-no-outdoor.html)
 - [50 Reasons Why Everyone Should Want More Walkable Streets](https://www.fastcompany.com/3062989/50-reasons-why-everyone-should-want-more-walkable-streets)
 - [Is Urban Cycling Worth the Risk?](https://ig.ft.com/sites/urban-cycling/)
 - [The Trouble with Billboards](https://adfreecities.org.uk/the-trouble-with-billboards/)
@@ -160,7 +159,8 @@
 - [The Hidden Force That Shapes Everything Around Us: Parking](https://www.vox.com/23712664/parking-lots-urban-planning-cities-housing)
 - [Americans Spend Too Much Time in Cars. The Solution Is Simple.](https://slate.com/business/2023/06/suburbs-driving-traffic-housing-affordable-solutions.html)
 - [Urbanism: Insidious Globalist Conspiracy or Self-Evident Common Sense?](https://www.youtube.com/watch?v=NzBMAwZlVd8)
-- [Hey, Bike Haters, You Will Lose the Culture War You’re Starting](https://nyc.streetsblog.org/2023/10/12/hey-bike-haters-you-will-lose-the-culture-war-youre-starting) 
+- [Hey, Bike Haters, You Will Lose the Culture War You’re Starting](https://nyc.streetsblog.org/2023/10/12/hey-bike-haters-you-will-lose-the-culture-war-youre-starting)
+- [Who Owns the Streets? How Cars Took Over Our Shared Spaces](https://www.youtube.com/watch?v=GKRaNyvMxjU) 
  
 ##  Visual Art 
  - [The Codex Seraphinianus](https://www.thebeliever.net/the-codex-seraphinianus/)
