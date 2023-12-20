@@ -30,7 +30,8 @@
 - [Zendo: Design History](http://www.koryheath.com/zendo/design-history/)
 - [Solvability](https://www.sirlin.net/articles/solvability)
 - [Babamots' Homeworlds Site](https://jpeterbaker.github.io/homeworlds/site/index.html)
-- [Hangman Is a Weird Game](https://www.youtube.com/watch?v=le5uGqHKll8) 
+- [Hangman Is a Weird Game](https://www.youtube.com/watch?v=le5uGqHKll8)
+- [How To Learn Chess as an Adult](https://www.alexcrompton.com/blog/how-to-learn-chess) 
  
 ##  Language 
  - [What Consonant Clusters Are Possible?](https://www.tandfonline.com/doi/abs/10.1080/00437956.1978.11435661)
