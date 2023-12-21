@@ -15,4 +15,3 @@ read_csv("bookmarks.csv", show_col_types = F) |>
   pull(content) |>
   paste0(collapse = " ") |>
   write_file("README.md")
-

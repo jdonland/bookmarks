@@ -58,7 +58,8 @@
 - [The Homeownership Society Was a Mistake](https://www.theatlantic.com/newsletters/archive/2022/12/homeownership-real-estate-investment-renting/672511/)
 - [Poor People Pay Higher Time Tax](https://pluralistic.net/2023/02/10/my-time/)
 - [Maybe Treating Housing as an Investment was a Colossal, Society-Shattering Mistake](https://goodreason.substack.com/p/maybe-treating-housing-as-an-investment)
-- [Airlines Are Just Banks Now](https://www.theatlantic.com/ideas/archive/2023/09/airlines-banks-mileage-programs/675374/) 
+- [Airlines Are Just Banks Now](https://www.theatlantic.com/ideas/archive/2023/09/airlines-banks-mileage-programs/675374/)
+- [Beyond the Status Quo: A Critical Assessment of Lifecycle Investment Advice](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4590406) 
  
 ##  Music 
  - [Blood on the Frets](https://web.archive.org/web/20211205225924/https://www.johnfahey.com/Blood.htm)
