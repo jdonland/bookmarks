@@ -6,6 +6,26 @@
 ##  Cinema 
  - [Review of American Eccentric Cinema](https://journals.openedition.org/inmedia/2342) 
  
+##  Computers & The Web 
+ - [Why Nothing Works Anymore](https://www.theatlantic.com/technology/archive/2017/02/the-singularity-in-the-toilet-stall/517551/)
+- [The Rise and Demise of RSS](https://twobithistory.org/2018/12/18/rss.html)
+- [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
+- [Socialism's DIY Computer](https://tribunemag.co.uk/2020/07/make-your-own-self-managed-socialist-microcomputer)
+- [How and Why I Stopped Buying New Laptops](https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops/)
+- [How To Take Back the Internet by Choosing the Internet Less Traveled](https://cheapskatesguide.org/articles/take-back-the-internet.html)
+- [The Small Website Discoverability Crisis](https://www.marginalia.nu/log/19-website-discoverability-crisis/)
+- [Can "Distraction-Free" Devices Change the Way We Write?](https://www.newyorker.com/magazine/2021/12/20/can-distraction-free-devices-change-the-way-we-write)
+- [The Old Internet Shows Signs of Quietly Coming Back](https://cheapskatesguide.org/articles/old-internet-coming-back.html)
+- [Why We Should Have Markdown Rendered Websites](https://proofinprogress.com/posts/2022-11-10/why-we-should-have-markdown-rendered-websites.html)
+- [TikTok's Enshittification](https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys)
+- [The False Promise of ChatGPT](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html)
+- [We Need More of Richard Stallman, Not Less](https://ploum.net/2023-06-19-more-rms.html)
+- [Generative AI Should Not Replace Thinking at My University](https://www.theatlantic.com/ideas/archive/2023/06/generative-artificial-intelligence-universities/674473/)
+- [Splitting the Web](https://ploum.net/2023-08-01-splitting-the-web.html)
+- [The Negative Impact of Mobile-First Web Design on Desktop](https://www.nngroup.com/articles/content-dispersion/)
+- [Internet Artifacts](https://neal.fun/internet-artifacts/)
+- [Where Have All the Websites Gone?](https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone/) 
+ 
 ##  Consumer Goods 
  - [How To Judge Quality in Clothing](https://putthison.com/how-to-judge-quality-in-clothing/)
 - [Things I Recommend You Buy and Use](https://s8mb.medium.com/things-i-recommend-you-buy-and-use-second-edition-457a8e7163f6)
@@ -114,25 +134,6 @@
 - [How To Develop Good Taste, Pt. 2](https://dieworkwear.com/2022/09/14/how-to-develop-good-taste-pt-2/)
 - [How To Develop Good Taste, Pt. 3](https://dieworkwear.com/2022/09/23/how-to-develop-good-taste-pt-3/)
 - [Articles of Interest - American Ivy](https://articlesofinterest.substack.com/p/american-ivy-chapter-1) 
- 
-##  Technology 
- - [Why Nothing Works Anymore](https://www.theatlantic.com/technology/archive/2017/02/the-singularity-in-the-toilet-stall/517551/)
-- [The Rise and Demise of RSS](https://twobithistory.org/2018/12/18/rss.html)
-- [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
-- [Socialism's DIY Computer](https://tribunemag.co.uk/2020/07/make-your-own-self-managed-socialist-microcomputer)
-- [How and Why I Stopped Buying New Laptops](https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops/)
-- [How To Take Back the Internet by Choosing the Internet Less Traveled](https://cheapskatesguide.org/articles/take-back-the-internet.html)
-- [The Small Website Discoverability Crisis](https://www.marginalia.nu/log/19-website-discoverability-crisis/)
-- [Can "Distraction-Free" Devices Change the Way We Write?](https://www.newyorker.com/magazine/2021/12/20/can-distraction-free-devices-change-the-way-we-write)
-- [The Old Internet Shows Signs of Quietly Coming Back](https://cheapskatesguide.org/articles/old-internet-coming-back.html)
-- [Why We Should Have Markdown Rendered Websites](https://proofinprogress.com/posts/2022-11-10/why-we-should-have-markdown-rendered-websites.html)
-- [TikTok's Enshittification](https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys)
-- [The False Promise of ChatGPT](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html)
-- [We Need More of Richard Stallman, Not Less](https://ploum.net/2023-06-19-more-rms.html)
-- [Generative AI Should Not Replace Thinking at My University](https://www.theatlantic.com/ideas/archive/2023/06/generative-artificial-intelligence-universities/674473/)
-- [Splitting the Web](https://ploum.net/2023-08-01-splitting-the-web.html)
-- [The Negative Impact of Mobile-First Web Design on Desktop](https://www.nngroup.com/articles/content-dispersion/)
-- [Internet Artifacts](https://neal.fun/internet-artifacts/) 
  
 ##  Typography & Handwriting 
  - [A Handwriting Manual](https://archive.org/details/AHandwritingManual/)
