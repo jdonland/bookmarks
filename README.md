@@ -21,6 +21,7 @@
 - [The False Promise of ChatGPT](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html)
 - [We Need More of Richard Stallman, Not Less](https://ploum.net/2023-06-19-more-rms.html)
 - [Generative AI Should Not Replace Thinking at My University](https://www.theatlantic.com/ideas/archive/2023/06/generative-artificial-intelligence-universities/674473/)
+- [AI Does Not Exist But It Will Ruin Everything Anyway](https://www.youtube.com/watch?v=EUrOxh_0leE)
 - [Splitting the Web](https://ploum.net/2023-08-01-splitting-the-web.html)
 - [The Negative Impact of Mobile-First Web Design on Desktop](https://www.nngroup.com/articles/content-dispersion/)
 - [Internet Artifacts](https://neal.fun/internet-artifacts/)
@@ -98,7 +99,8 @@
 - [So You Want to Study Philosophy...](https://www.susanrigetti.com/philosophy) 
  
 ##  Poetry 
- - [The Revolution Will Not Be Televised](https://archive.org/details/spokenwordrevolu0000elev/page/214/mode/2up?view=theater)
+ - [Gift](https://pastebin.com/raw/9fVLX21s)
+- [The Revolution Will Not Be Televised](https://archive.org/details/spokenwordrevolu0000elev/page/214/mode/2up?view=theater)
 - [Crows](https://www.newyorker.com/magazine/2000/09/25/crows)
 - [All of the Words on a Bottle of Rolling Rock Beer in a Different Order](https://web.archive.org/web/20040603022843/http://slate.msn.com/id/2101150/sidebar/2101284/ent/0/)
 - [Want Song](https://www.mtpr.org/2015-07-13/want-song)
