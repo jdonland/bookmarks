@@ -112,6 +112,7 @@
 - [Nausicaä](https://www.newyorker.com/magazine/2023/06/12/nausicaa-frank-x-gaspar-poem)
 - [Meat Eater No. 5](https://www.newyorker.com/magazine/2023/10/30/meat-eater-no-5-carmen-maria-machado-poem)
 - [Disinhibitor](https://www.newyorker.com/magazine/2023/12/18/disinhibitor-ariana-reines-poem)
+- [Late Shift](https://www.newyorker.com/magazine/2024/03/18/late-shift-amy-woolard-poem)
 - [To Explicate Meaning](https://pastebin.com/raw/kFML7mRK) 
  
 ##  Productivity 
@@ -125,7 +126,8 @@
  
 ##  Psychology 
  - [Why Aren't Smart People Happier?](https://experimentalhistory.substack.com/p/why-arent-smart-people-happier)
-- [Notes on Puzzles](https://nabeelqu.substack.com/p/notes-on-puzzles) 
+- [Notes on Puzzles](https://nabeelqu.substack.com/p/notes-on-puzzles)
+- [The Fragile Connection Between Liking And Wanting Is Crucial To Our Survival](http://thekramerisnow.blogspot.com/2024/03/the-fragile-connection-between-liking.html) 
  
 ##  Short Fiction 
  - [Second Person, Present Tense](https://www.baen.com/Chapters/9781618248992/9781618248992___2.htm)
