@@ -34,7 +34,8 @@
 - [Shaving Is Too Expensive](https://www.johnwhiles.com/posts/shaving)
 - [Your Stuff Is Actually Worse Now](https://www.vox.com/the-goods/23529587/consumer-goods-quality-fast-fashion-technology)
 - [What Happened to Sweaters?](https://www.theatlantic.com/technology/archive/2023/10/sweater-clothing-quality-natural-fibers-fast-fashion/675600/)
-- [Why Every Microwave Sucks These Days, and the Death of Instant Pot](https://moth.monster/blog/microwaves/) 
+- [Why Every Microwave Sucks These Days, and the Death of Instant Pot](https://moth.monster/blog/microwaves/)
+- [Why Are (Most) Sofas So Bad?](https://www.dwell.com/article/dtc-sofa-crisis-32304b9e) 
  
 ##  Culture & Politics 
  - [Is Culture Snobbery the New Resistance?](http://thekramerisnow.blogspot.com/2014/07/is-culture-snobbery-new-resistance.html)
