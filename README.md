@@ -90,7 +90,8 @@
 - [Why 12 Notes to the Octave?](https://www.math.uwaterloo.ca/~mrubinst/tuning/12.html)
 - [The Ballad of Geeshie and Elvie](https://www.nytimes.com/interactive/2014/04/13/magazine/blues.html)
 - ['A Real Little Taste Of Heaven': Visionary Guitarist Jack Rose In 11 Songs](https://www.npr.org/sections/therecord/2016/09/20/494234199/-a-real-little-taste-of-heaven-visionary-guitarist-jack-rose-in-11-songs)
-- [A Guide to Imaginational Anthem's 10 Volumes of Stirring American Primitive Guitar](https://daily.bandcamp.com/lists/imaginational-anthem-guide) 
+- [A Guide to Imaginational Anthem's 10 Volumes of Stirring American Primitive Guitar](https://daily.bandcamp.com/lists/imaginational-anthem-guide)
+- [Harry Smith's Musical Catalogue of Human Experience](https://www.newyorker.com/magazine/2020/10/05/harry-smiths-musical-catalogue-of-human-experience) 
  
 ##  Philosophy 
  - [Whose Idea Is It, Anyway?](http://linguafranca.mirror.theinfo.org/Archive/whose.html)
