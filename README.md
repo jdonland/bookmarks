@@ -1,8 +1,4 @@
 
-##  Architecture 
- - [A Dwelling for the Gods](https://www.theguardian.com/books/2002/jan/05/arts.highereducation)
-- [Mesmerizing Mosque Ceilings](https://www.boredpanda.com/mosque-ceilings/) 
- 
 ##  Cinema 
  - [Review of American Eccentric Cinema](https://journals.openedition.org/inmedia/2342) 
  
@@ -35,7 +31,9 @@
 - [Where Have All the Websites Gone?](https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone/) 
  
 ##  Consumer Goods 
- - [How To Judge Quality in Clothing](https://putthison.com/how-to-judge-quality-in-clothing/)
+ - [No Ordinary Pencil: A Portrait of the Eberhard Faber Blackwing 602](https://blackwingpages.wordpress.com/no-ordinary-pencil/)
+- [King of Click: The Story of the Greatest Keyboard Ever Made](https://www.theverge.com/2014/10/7/6882427/king-of-keys)
+- [How To Judge Quality in Clothing](https://putthison.com/how-to-judge-quality-in-clothing/)
 - [Things I Recommend You Buy and Use](https://s8mb.medium.com/things-i-recommend-you-buy-and-use-second-edition-457a8e7163f6)
 - [Shaving Is Too Expensive](https://www.johnwhiles.com/posts/shaving)
 - [Your Stuff Is Actually Worse Now](https://www.vox.com/the-goods/23529587/consumer-goods-quality-fast-fashion-technology)
@@ -103,9 +101,11 @@
  
 ##  Philosophy 
  - [Whose Idea Is It, Anyway?](http://linguafranca.mirror.theinfo.org/Archive/whose.html)
+- [Ludwig Wittgenstein](https://plato.stanford.edu/entries/wittgenstein/)
 - [Zhuangzi and That Bloody Butterfly](https://philosophynow.org/issues/76/Zhuangzi_And_That_Bloody_Butterfly)
 - [Use and Mention](https://cs.lmu.edu/~ray/notes/usemention/)
 - [The Normative Status of Logic](https://plato.stanford.edu/entries/logic-normative/)
+- [The Interpretation of Probability: Still an Open Issue?](https://www.mdpi.com/2409-9287/2/3/20)
 - [It's All Bullsh*t! On the Relationship Between Pseudoscience and Pseudophilosophy](https://medium.com/socrates-cafe/its-all-bullshit-on-the-relationship-between-pseudoscience-and-pseudophilosophy-3485ade26500)
 - [So You Want to Study Philosophy...](https://www.susanrigetti.com/philosophy) 
  
