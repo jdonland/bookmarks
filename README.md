@@ -164,8 +164,7 @@
 - [The Doves Type, Revisited](https://www.typeroom.eu/the-doves-type-revisited-robert-green-upgrades-an-iconic-typeface) 
  
 ##  Urbanism 
- - [Ivan Illich on Cars](https://ranprieur.com/readings/illichcars.html)
-- [50 Reasons Why Everyone Should Want More Walkable Streets](https://www.fastcompany.com/3062989/50-reasons-why-everyone-should-want-more-walkable-streets)
+ - [50 Reasons Why Everyone Should Want More Walkable Streets](https://www.fastcompany.com/3062989/50-reasons-why-everyone-should-want-more-walkable-streets)
 - [Is Urban Cycling Worth the Risk?](https://ig.ft.com/sites/urban-cycling/)
 - [The Trouble with Billboards](https://adfreecities.org.uk/the-trouble-with-billboards/)
 - [Stroads Are Ugly, Expensive, and Dangerous (and They're Everywhere)](https://www.youtube.com/watch?v=ORzNZUeUHAM)
@@ -173,13 +172,12 @@
 - [The People Who Hate People](https://www.theatlantic.com/ideas/archive/2022/05/population-growth-housing-climate-change/629952/)
 - [What I Mean When I Say 'Ban Cars'](https://jalopnik.com/what-i-mean-when-i-say-ban-cars-1849122955)
 - [Why Canadian Cities Just Generally Suck](https://www.canadaland.com/jason-slaughter-why-canadian-cities-suck/)
-- [Shifting Gears: Why US Cities Are Falling Out of Love With the Parking Lot](https://www.theguardian.com/us-news/2022/dec/26/us-cities-parking-lots-climate-walkability)
 - [There's No Such Thing as Affordable Housing](https://www.strongtowns.org/journal/2023/1/3/theres-no-such-thing-as-affordable-housing)
 - [The Hidden Force That Shapes Everything Around Us: Parking](https://www.vox.com/23712664/parking-lots-urban-planning-cities-housing)
 - [Americans Spend Too Much Time in Cars. The Solution Is Simple.](https://slate.com/business/2023/06/suburbs-driving-traffic-housing-affordable-solutions.html)
 - [Urbanism: Insidious Globalist Conspiracy or Self-Evident Common Sense?](https://www.youtube.com/watch?v=NzBMAwZlVd8)
-- [Hey, Bike Haters, You Will Lose the Culture War You’re Starting](https://nyc.streetsblog.org/2023/10/12/hey-bike-haters-you-will-lose-the-culture-war-youre-starting)
-- [Who Owns the Streets? How Cars Took Over Our Shared Spaces](https://www.youtube.com/watch?v=GKRaNyvMxjU) 
+- [Who Owns the Streets? How Cars Took Over Our Shared Spaces](https://www.youtube.com/watch?v=GKRaNyvMxjU)
+- [Car Harm: A Global Review of Automobility’s Harm to People and the Environment](https://www.sciencedirect.com/science/article/pii/S0966692324000267#bb0390) 
  
 ##  Visual Art 
  - [The Codex Seraphinianus](https://www.thebeliever.net/the-codex-seraphinianus/)
