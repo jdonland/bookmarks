@@ -3,7 +3,8 @@
  - [Review of American Eccentric Cinema](https://journals.openedition.org/inmedia/2342) 
  
 ##  Comics 
- - [Tintin and the Curse of Clarity](https://www.tcj.com/tintin-and-the-curse-of-clarity/)
+ - [Jean "Moebius" Giraud, 1938‒2012](https://www.tcj.com/jean-moebius-giraud-1938-2012/)
+- [Tintin and the Curse of Clarity](https://www.tcj.com/tintin-and-the-curse-of-clarity/)
 - [Ghost World at Twenty: Daniel Clowes's Dialogue](https://www.tcj.com/ghost-world-at-twenty-daniel-clowess-dialogue/)
 - [He's Wearing the Gravy Helmet, Again: The Greatest Single Panel in Modern American Comics](https://medium.com/@videocrime/hes-wearing-the-gravy-helmet-again-the-greatest-single-panel-in-modern-american-comics-10c269ca4102)
 - [Usagi Yojimbo's Neverending Story](https://www.tcj.com/usagi-yojimbos-neverending-story/) 
