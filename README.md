@@ -124,6 +124,7 @@
 - [Meat Eater No. 5](https://www.newyorker.com/magazine/2023/10/30/meat-eater-no-5-carmen-maria-machado-poem)
 - [Disinhibitor](https://www.newyorker.com/magazine/2023/12/18/disinhibitor-ariana-reines-poem)
 - [Late Shift](https://www.newyorker.com/magazine/2024/03/18/late-shift-amy-woolard-poem)
+- [The Hymn](https://www.newyorker.com/magazine/2024/04/01/the-hymn-marie-howe-poem)
 - [To Explicate Meaning](https://pastebin.com/raw/kFML7mRK) 
  
 ##  Productivity 
@@ -141,7 +142,8 @@
 - [The Fragile Connection Between Liking And Wanting Is Crucial To Our Survival](http://thekramerisnow.blogspot.com/2024/03/the-fragile-connection-between-liking.html) 
  
 ##  Short Fiction 
- - [Second Person, Present Tense](https://www.baen.com/Chapters/9781618248992/9781618248992___2.htm)
+ - [Break It Down](https://www.theparisreview.org/fiction/3063/break-it-down-lydia-davis)
+- [Second Person, Present Tense](https://www.baen.com/Chapters/9781618248992/9781618248992___2.htm)
 - [MMAcevedo](https://qntm.org/mmacevedo)
 - [Upstate](https://www.newyorker.com/magazine/2023/10/30/upstate-fiction-emma-cline) 
  
