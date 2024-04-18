@@ -18,7 +18,6 @@
 - [How and Why I Stopped Buying New Laptops](https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops/)
 - [How To Take Back the Internet by Choosing the Internet Less Traveled](https://cheapskatesguide.org/articles/take-back-the-internet.html)
 - [The Small Website Discoverability Crisis](https://www.marginalia.nu/log/19-website-discoverability-crisis/)
-- [Can "Distraction-Free" Devices Change the Way We Write?](https://www.newyorker.com/magazine/2021/12/20/can-distraction-free-devices-change-the-way-we-write)
 - [The Old Internet Shows Signs of Quietly Coming Back](https://cheapskatesguide.org/articles/old-internet-coming-back.html)
 - [Why We Should Have Markdown Rendered Websites](https://proofinprogress.com/posts/2022-11-10/why-we-should-have-markdown-rendered-websites.html)
 - [TikTok's Enshittification](https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys)
@@ -29,7 +28,8 @@
 - [Splitting the Web](https://ploum.net/2023-08-01-splitting-the-web.html)
 - [The Negative Impact of Mobile-First Web Design on Desktop](https://www.nngroup.com/articles/content-dispersion/)
 - [Internet Artifacts](https://neal.fun/internet-artifacts/)
-- [Where Have All the Websites Gone?](https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone/) 
+- [Where Have All the Websites Gone?](https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone/)
+- [We Need To Rewild The Internet](https://www.noemamag.com/we-need-to-rewild-the-internet/) 
  
 ##  Consumer Goods 
  - [No Ordinary Pencil: A Portrait of the Eberhard Faber Blackwing 602](https://blackwingpages.wordpress.com/no-ordinary-pencil/)
