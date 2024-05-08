@@ -126,6 +126,7 @@
 - [Disinhibitor](https://www.newyorker.com/magazine/2023/12/18/disinhibitor-ariana-reines-poem)
 - [Late Shift](https://www.newyorker.com/magazine/2024/03/18/late-shift-amy-woolard-poem)
 - [The Hymn](https://www.newyorker.com/magazine/2024/04/01/the-hymn-marie-howe-poem)
+- [Laundry](https://www.newyorker.com/magazine/2024/05/06/laundry-ellen-bass-poem)
 - [To Explicate Meaning](https://pastebin.com/raw/kFML7mRK) 
  
 ##  Productivity 
@@ -140,7 +141,8 @@
 ##  Psychology 
  - [Why Aren't Smart People Happier?](https://experimentalhistory.substack.com/p/why-arent-smart-people-happier)
 - [Notes on Puzzles](https://nabeelqu.substack.com/p/notes-on-puzzles)
-- [The Fragile Connection Between Liking And Wanting Is Crucial To Our Survival](http://thekramerisnow.blogspot.com/2024/03/the-fragile-connection-between-liking.html) 
+- [The Fragile Connection Between Liking And Wanting Is Crucial To Our Survival](http://thekramerisnow.blogspot.com/2024/03/the-fragile-connection-between-liking.html)
+- [The Battle for Attention](https://www.newyorker.com/magazine/2024/05/06/the-battle-for-attention) 
  
 ##  Short Fiction 
  - [Break It Down](https://www.theparisreview.org/fiction/3063/break-it-down-lydia-davis)
@@ -165,7 +167,8 @@
 - [Counterspace Typography Timeline](https://timeline.counterspace.us/)
 - [A 17th-Century Font in a 21st-Century Thesis](https://www.linyangchen.com/Typography-Fell-Types-font)
 - [Visual History of the Latin Alphabet](https://uclab.fh-potsdam.de/arete/en)
-- [The Doves Type, Revisited](https://www.typeroom.eu/the-doves-type-revisited-robert-green-upgrades-an-iconic-typeface) 
+- [The Doves Type, Revisited](https://www.typeroom.eu/the-doves-type-revisited-robert-green-upgrades-an-iconic-typeface)
+- [Lloyd Reynolds, Robert Palladino, and Calligraphy at Reed College](https://www.reed.edu/calligraphy/history.html) 
  
 ##  Urbanism 
  - [50 Reasons Why Everyone Should Want More Walkable Streets](https://www.fastcompany.com/3062989/50-reasons-why-everyone-should-want-more-walkable-streets)
