@@ -121,6 +121,7 @@
 - [Autopsy](https://pastebin.com/raw/npCuYjLj)
 - [Nothing Is Too Small Not To Be Wondered About](https://thevalueofsparrows.wordpress.com/2017/05/20/poetry-nothing-is-too-small-not-to-be-wondered-about-by-mary-oliver/)
 - [Miscreant Insects](https://twitter.com/mogwai_poet/status/1335354217335148546)
+- [A Recipe for Steaming Almost-Dragon](https://lectures.org/2023/01/16/a-recipe-for-steaming-almost-dragon-by-diane-sun/)
 - [Nausicaä](https://www.newyorker.com/magazine/2023/06/12/nausicaa-frank-x-gaspar-poem)
 - [Meat Eater No. 5](https://www.newyorker.com/magazine/2023/10/30/meat-eater-no-5-carmen-maria-machado-poem)
 - [Disinhibitor](https://www.newyorker.com/magazine/2023/12/18/disinhibitor-ariana-reines-poem)
