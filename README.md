@@ -4,6 +4,7 @@
  
 ##  Comics 
  - [Jean "Moebius" Giraud, 1938‒2012](https://www.tcj.com/jean-moebius-giraud-1938-2012/)
+- [Moebius and the Key of Dreams](https://www.theparisreview.org/blog/2015/10/21/moebius-and-the-key-of-dreams/)
 - [Tintin and the Curse of Clarity](https://www.tcj.com/tintin-and-the-curse-of-clarity/)
 - [Ghost World at Twenty: Daniel Clowes's Dialogue](https://www.tcj.com/ghost-world-at-twenty-daniel-clowess-dialogue/)
 - [He's Wearing the Gravy Helmet, Again: The Greatest Single Panel in Modern American Comics](https://medium.com/@videocrime/hes-wearing-the-gravy-helmet-again-the-greatest-single-panel-in-modern-american-comics-10c269ca4102)
@@ -128,6 +129,7 @@
 - [Late Shift](https://www.newyorker.com/magazine/2024/03/18/late-shift-amy-woolard-poem)
 - [The Hymn](https://www.newyorker.com/magazine/2024/04/01/the-hymn-marie-howe-poem)
 - [Laundry](https://www.newyorker.com/magazine/2024/05/06/laundry-ellen-bass-poem)
+- [This Living](https://www.newyorker.com/magazine/2024/06/10/this-living-amber-tamblyn-poem)
 - [To Explicate Meaning](https://pastebin.com/raw/kFML7mRK) 
  
 ##  Productivity 
@@ -169,6 +171,7 @@
 - [A 17th-Century Font in a 21st-Century Thesis](https://www.linyangchen.com/Typography-Fell-Types-font)
 - [Visual History of the Latin Alphabet](https://uclab.fh-potsdam.de/arete/en)
 - [The Doves Type, Revisited](https://www.typeroom.eu/the-doves-type-revisited-robert-green-upgrades-an-iconic-typeface)
+- [Badness 0 (Apostrophe's version)](https://www.youtube.com/watch?v=Y65FRxE7uMc)
 - [Lloyd Reynolds, Robert Palladino, and Calligraphy at Reed College](https://www.reed.edu/calligraphy/history.html) 
  
 ##  Urbanism 
@@ -191,7 +194,6 @@
 - [Henry Darger](https://www.saraayers.com/darger.htm)
 - [Jerry's Map](https://www.jerrysmap.com/what-is-it)
 - [The Impossible World of M. C. Escher](https://www.theguardian.com/artanddesign/2015/jun/20/the-impossible-world-of-mc-escher)
-- [Moebius and the Key of Dreams](https://www.theparisreview.org/blog/2015/10/21/moebius-and-the-key-of-dreams/)
 - [François Avril: Over the Window](https://hubertybreyne.com/en/expositions/presentation/142/over-the-window)
 - [1917‒2017, 100 Years of De Stijl](https://craigberry93.medium.com/1917-2017-100-years-of-de-stijl-581dcc95681)
 - [Interview with Generative Artist Kjetil Golid](https://www.artnome.com/news/2020/10/11/interview-with-generative-artist-kjetil-golid)
