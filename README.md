@@ -121,6 +121,7 @@
 - [Two-Headed Calf](https://rolfpotts.com/two-headed-calf-by-laura-gilpin/)
 - [Autopsy](https://pastebin.com/raw/npCuYjLj)
 - [Nothing Is Too Small Not To Be Wondered About](https://thevalueofsparrows.wordpress.com/2017/05/20/poetry-nothing-is-too-small-not-to-be-wondered-about-by-mary-oliver/)
+- [Woodchuck](https://i.imgur.com/b8TaahV.jpeg)
 - [Miscreant Insects](https://twitter.com/mogwai_poet/status/1335354217335148546)
 - [A Recipe for Steaming Almost-Dragon](https://lectures.org/2023/01/16/a-recipe-for-steaming-almost-dragon-by-diane-sun/)
 - [Nausicaä](https://www.newyorker.com/magazine/2023/06/12/nausicaa-frank-x-gaspar-poem)
