@@ -54,7 +54,7 @@
 - [Oops! We Automated Bullshit](https://www.cst.cam.ac.uk/blog/afb21/oops-we-automated-bullshit)
 - [We Live in a Golden Age of Crybullyism](https://www.thenation.com/article/society/crybullyism-bill-ackman-ruling-class/) 
  
-##  Games 
+##  Games & Sports 
  - [Playing to Win](https://www.sirlin.net/ptw)
 - [Open Source Game Clones](https://osgameclones.com/)
 - [Angry Birds, Farmville and Other Hyperaddictive 'Stupid Games'](https://www.nytimes.com/2012/04/08/magazine/angry-birds-farmville-and-other-hyperaddictive-stupid-games.html)
@@ -62,7 +62,8 @@
 - [Solvability](https://www.sirlin.net/articles/solvability)
 - [Babamots' Homeworlds Site](https://jpeterbaker.github.io/homeworlds/site/index.html)
 - [Hangman Is a Weird Game](https://www.youtube.com/watch?v=le5uGqHKll8)
-- [How To Learn Chess as an Adult](https://www.alexcrompton.com/blog/how-to-learn-chess) 
+- [How To Learn Chess as an Adult](https://www.alexcrompton.com/blog/how-to-learn-chess)
+- [A Surf Legend's Long Ride](https://www.newyorker.com/magazine/2024/06/10/jock-sutherland-profile-surfing) 
  
 ##  Language 
  - [What Consonant Clusters Are Possible?](https://www.tandfonline.com/doi/abs/10.1080/00437956.1978.11435661)
