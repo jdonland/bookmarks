@@ -55,6 +55,9 @@
 - [Oops! We Automated Bullshit](https://www.cst.cam.ac.uk/blog/afb21/oops-we-automated-bullshit)
 - [We Live in a Golden Age of Crybullyism](https://www.thenation.com/article/society/crybullyism-bill-ackman-ruling-class/) 
  
+##  Design 
+ - [Copying Is the Way Design Works](https://matthewstrom.com/writing/copying/) 
+ 
 ##  Games & Sports 
  - [Playing to Win](https://www.sirlin.net/ptw)
 - [Open Source Game Clones](https://osgameclones.com/)
