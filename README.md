@@ -67,7 +67,9 @@
 - [Babamots' Homeworlds Site](https://jpeterbaker.github.io/homeworlds/site/index.html)
 - [Hangman Is a Weird Game](https://www.youtube.com/watch?v=le5uGqHKll8)
 - [How To Learn Chess as an Adult](https://www.alexcrompton.com/blog/how-to-learn-chess)
-- [A Surf Legend's Long Ride](https://www.newyorker.com/magazine/2024/06/10/jock-sutherland-profile-surfing) 
+- [How to Play a Game](https://franklantz.substack.com/p/how-to-play-a-game)
+- [A Surf Legend's Long Ride](https://www.newyorker.com/magazine/2024/06/10/jock-sutherland-profile-surfing)
+- [The Rarest Move in Chess](https://www.youtube.com/watch?v=iDnW0WiCqNc) 
  
 ##  Language 
  - [What Consonant Clusters Are Possible?](https://www.tandfonline.com/doi/abs/10.1080/00437956.1978.11435661)
@@ -81,23 +83,10 @@
 - [mi kama sona e toki pona or Something](https://cohost.org/mcc/post/59045-mi-kama-sona-e-toki) 
  
 ##  Learning 
- - [How To Understand Things](https://nabeelqu.co/understanding)
+ - [Increasing Retention Without Increasing Study Time](https://files.eric.ed.gov/fulltext/ED505647.pdf)
+- [How To Understand Things](https://nabeelqu.co/understanding)
 - [How To Self-Study Math](https://www.youtube.com/watch?v=fb_v5Bc8PSk)
 - [Effectively Self-Studying Over the Internet](https://luckytoilet.wordpress.com/2023/01/03/effectively-self-studying-over-the-internet/) 
- 
-##  Money 
- - [Pricing Money](http://www.jdawiseman.com/books/pricing-money/Pricing_Money_JDAWiseman.html)
-- [On the Phenomenon of Bullshit Jobs](https://www.atlasofplaces.com/essays/on-the-phenomenon-of-bullshit-jobs/)
-- [The Singular Pursuit of Comrade Bezos](https://medium.com/s/story/the-singular-pursuit-of-comrade-bezos-3e280baa045c)
-- [There's Nothing to Do Except Gamble](https://nymag.com/intelligencer/2021/04/nft-future-of-money.html)
-- [Finding and Funding a Good Life](https://www.pwlcapital.com/wp-content/uploads/2022/11/2022-04-25_PWL_WP_Felix_Finding_and_Funding_Good_Life_V2.pdf)
-- [The Homeownership Society Was a Mistake](https://www.theatlantic.com/newsletters/archive/2022/12/homeownership-real-estate-investment-renting/672511/)
-- [Poor People Pay Higher Time Tax](https://pluralistic.net/2023/02/10/my-time/)
-- [Maybe Treating Housing as an Investment was a Colossal, Society-Shattering Mistake](https://goodreason.substack.com/p/maybe-treating-housing-as-an-investment)
-- [Airlines Are Just Banks Now](https://www.theatlantic.com/ideas/archive/2023/09/airlines-banks-mileage-programs/675374/)
-- [Beyond the Status Quo: A Critical Assessment of Lifecycle Investment Advice](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4590406)
-- [Double-Entry Bookkeeping as a Directed Graph](https://matheusportela.com/double-entry-bookkeeping-as-a-directed-graph)
-- [Panic! at the Job Market](https://matt.sh/panic-at-the-job-market) 
  
 ##  Music 
  - [Blood on the Frets](https://web.archive.org/web/20211205225924/https://www.johnfahey.com/Blood.htm)
@@ -170,6 +159,7 @@
 ##  Typography & Handwriting 
  - [A Handwriting Manual](https://archive.org/details/AHandwritingManual/)
 - [Notes on Type Design](https://help.fontlab.com/fontlab/8/tutorials/briem/)
+- [Palatino Nova: A Classical Typeface Redesigned by Hermann Zapf](http://www.linotype.co.jp/P2/Palatino%20nova%20Brochure.pdf)
 - [Three Typefaces for Mathematics](https://web.archive.org/web/20091229042035/http://www.typeculture.com/academic_resource/articles_essays/pdfs/tc_article_47.pdf)
 - [Type Hunting](https://typehunting.com/)
 - [How to Write 225 Words Per Minute With a Pen](https://www.theatlantic.com/technology/archive/2014/06/yeah-i-still-use-shorthand-and-a-smartpen/373281/)
@@ -207,3 +197,18 @@
 - [Democratic Graphics: The Political and Graphic Work of Gerd Arntz 1920‒1940](https://designabilities.wordpress.com/2020/12/11/democratic-graphics-the-political-and-graphic-work-of-gerd-arntz-1920-1940/)
 - [Ragna Róbertsdóttir](https://www.artforum.com/events/ragna-robertsdottir-248913/)
 - [Tauba Auerbach in 'Bodies of Knowledge'](https://art21.org/watch/art-in-the-twenty-first-century/s11/tauba-auerbach-in-bodies-of-knowledge/) 
+ 
+##  Work & Money 
+ - [Pricing Money](http://www.jdawiseman.com/books/pricing-money/Pricing_Money_JDAWiseman.html)
+- [On the Phenomenon of Bullshit Jobs](https://www.atlasofplaces.com/essays/on-the-phenomenon-of-bullshit-jobs/)
+- [The Singular Pursuit of Comrade Bezos](https://medium.com/s/story/the-singular-pursuit-of-comrade-bezos-3e280baa045c)
+- [There's Nothing to Do Except Gamble](https://nymag.com/intelligencer/2021/04/nft-future-of-money.html)
+- [Finding and Funding a Good Life](https://www.pwlcapital.com/wp-content/uploads/2022/11/2022-04-25_PWL_WP_Felix_Finding_and_Funding_Good_Life_V2.pdf)
+- [The Homeownership Society Was a Mistake](https://www.theatlantic.com/newsletters/archive/2022/12/homeownership-real-estate-investment-renting/672511/)
+- [Poor People Pay Higher Time Tax](https://pluralistic.net/2023/02/10/my-time/)
+- [Maybe Treating Housing as an Investment was a Colossal, Society-Shattering Mistake](https://goodreason.substack.com/p/maybe-treating-housing-as-an-investment)
+- [Airlines Are Just Banks Now](https://www.theatlantic.com/ideas/archive/2023/09/airlines-banks-mileage-programs/675374/)
+- [Beyond the Status Quo: A Critical Assessment of Lifecycle Investment Advice](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4590406)
+- [Double-Entry Bookkeeping as a Directed Graph](https://matheusportela.com/double-entry-bookkeeping-as-a-directed-graph)
+- [White-Collar Work Is Just Meetings Now](https://www.theatlantic.com/ideas/archive/2024/07/white-collar-meetings-more-frequent/678941/)
+- [Panic! at the Job Market](https://matt.sh/panic-at-the-job-market) 
