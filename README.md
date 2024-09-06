@@ -86,7 +86,8 @@
  - [Increasing Retention Without Increasing Study Time](https://files.eric.ed.gov/fulltext/ED505647.pdf)
 - [How To Understand Things](https://nabeelqu.co/understanding)
 - [How To Self-Study Math](https://www.youtube.com/watch?v=fb_v5Bc8PSk)
-- [Effectively Self-Studying Over the Internet](https://luckytoilet.wordpress.com/2023/01/03/effectively-self-studying-over-the-internet/) 
+- [Effectively Self-Studying Over the Internet](https://luckytoilet.wordpress.com/2023/01/03/effectively-self-studying-over-the-internet/)
+- [Effective Spaced Repetition](https://borretti.me/article/effective-spaced-repetition) 
  
 ##  Music 
  - [Blood on the Frets](https://web.archive.org/web/20211205225924/https://www.johnfahey.com/Blood.htm)
@@ -110,6 +111,7 @@
 ##  Poetry 
  - [Gift](https://pastebin.com/raw/9fVLX21s)
 - [The Revolution Will Not Be Televised](https://archive.org/details/spokenwordrevolu0000elev/page/214/mode/2up?view=theater)
+- [LGA-ORD](https://www.newyorker.com/magazine/1980/07/07/lga-ord)
 - [Crows](https://www.newyorker.com/magazine/2000/09/25/crows)
 - [All of the Words on a Bottle of Rolling Rock Beer in a Different Order](https://web.archive.org/web/20040603022843/http://slate.msn.com/id/2101150/sidebar/2101284/ent/0/)
 - [Want Song](https://www.mtpr.org/2015-07-13/want-song)
@@ -126,16 +128,17 @@
 - [The Hymn](https://www.newyorker.com/magazine/2024/04/01/the-hymn-marie-howe-poem)
 - [Laundry](https://www.newyorker.com/magazine/2024/05/06/laundry-ellen-bass-poem)
 - [This Living](https://www.newyorker.com/magazine/2024/06/10/this-living-amber-tamblyn-poem)
+- [This is a Test of the Federal Emergency Management Agency Wireless Warning System](https://www.newyorker.com/magazine/2024/08/05/this-is-a-test-of-the-federal-emergency-management-agency-wireless-warning-system-dobby-gibson-poem)
 - [To Explicate Meaning](https://pastebin.com/raw/kFML7mRK) 
  
 ##  Productivity 
  - [Productivity 101: An Introduction to The Pomodoro Technique](https://lifehacker.com/productivity-101-a-primer-to-the-pomodoro-technique-1598992730)
 - [How a Lazy Bitch Like Me Learned To Be Productive](https://www.madisontaskett.com/lazy-bastard-productivity/)
 - [The Case Against Collaboration](https://paulitaylor.com/2022/05/06/the-case-against-collaboration/)
-- [Effective Spaced Repetition](https://borretti.me/article/effective-spaced-repetition)
 - [Finish Your Projects](https://github.com/readme/guides/finish-your-projects)
 - [Stopping at 90%](https://austinhenley.com/blog/90percent.html)
-- [In This Essay I Will: On Distraction](https://www.theparisreview.org/blog/2023/08/23/in-this-essay-i-will-on-distraction/) 
+- [In This Essay I Will: On Distraction](https://www.theparisreview.org/blog/2023/08/23/in-this-essay-i-will-on-distraction/)
+- [The Art of Finishing](https://www.bytedrum.com/posts/art-of-finishing/) 
  
 ##  Psychology 
  - [Why Aren't Smart People Happier?](https://experimentalhistory.substack.com/p/why-arent-smart-people-happier)
@@ -171,7 +174,7 @@
 - [Badness 0 (Apostrophe's version)](https://www.youtube.com/watch?v=Y65FRxE7uMc)
 - [Lloyd Reynolds, Robert Palladino, and Calligraphy at Reed College](https://www.reed.edu/calligraphy/history.html) 
  
-##  Urbanism 
+##  Urbanism & Transit 
  - [50 Reasons Why Everyone Should Want More Walkable Streets](https://www.fastcompany.com/3062989/50-reasons-why-everyone-should-want-more-walkable-streets)
 - [Is Urban Cycling Worth the Risk?](https://ig.ft.com/sites/urban-cycling/)
 - [The Trouble with Billboards](https://adfreecities.org.uk/the-trouble-with-billboards/)
@@ -184,11 +187,13 @@
 - [Urbanism: Insidious Globalist Conspiracy or Self-Evident Common Sense?](https://www.youtube.com/watch?v=NzBMAwZlVd8)
 - [Who Owns the Streets? How Cars Took Over Our Shared Spaces](https://www.youtube.com/watch?v=GKRaNyvMxjU)
 - [Car Harm: A Global Review of Automobility’s Harm to People and the Environment](https://www.sciencedirect.com/science/article/pii/S0966692324000267#bb0390)
-- [Why Kids Don't Go Outside Anymore](https://www.youtube.com/watch?v=W2nB0zchM4I) 
+- [Why Kids Don't Go Outside Anymore](https://www.youtube.com/watch?v=W2nB0zchM4I)
+- [Americans' Love Affair With Big Cars Is Killing Them](https://www.economist.com/interactive/united-states/2024/08/31/americans-love-affair-with-big-cars-is-killing-them) 
  
 ##  Visual Art 
  - [The Codex Seraphinianus](https://www.thebeliever.net/the-codex-seraphinianus/)
 - [Henry Darger](https://www.saraayers.com/darger.htm)
+- [Pokras Lampas](https://pokraslampas.com/)
 - [Jerry's Map](https://www.jerrysmap.com/what-is-it)
 - [The Impossible World of M. C. Escher](https://www.theguardian.com/artanddesign/2015/jun/20/the-impossible-world-of-mc-escher)
 - [François Avril: Over the Window](https://hubertybreyne.com/en/expositions/presentation/142/over-the-window)
