@@ -45,30 +45,30 @@
 - [Why Are (Most) Sofas So Bad?](https://www.dwell.com/article/dtc-sofa-crisis-32304b9e) 
  
 ##  Culture & Politics 
- - [Is Culture Snobbery the New Resistance?](http://thekramerisnow.blogspot.com/2014/07/is-culture-snobbery-new-resistance.html)
+ - [Amusing Ourselves to Death](https://web.archive.org/web/20100801095556/http://www.recombinantrecords.net/images/2009-05-Amusing-Ourselves-to-Death.pdf)
+- [Is Culture Snobbery the New Resistance?](http://thekramerisnow.blogspot.com/2014/07/is-culture-snobbery-new-resistance.html)
 - [A Decade of Sore Winners](https://theoutline.com/post/8484/sore-winners-decade)
 - [Canada Is Fake](https://theoutline.com/post/8686/canada-is-fake)
 - [What Moneyball-for-Everything Has Done to American Culture](https://www.theatlantic.com/newsletters/archive/2022/10/sabermetrics-analytics-ruined-baseball-sports-music-film/671924/)
 - [We Live In The Age of The Bullshitter](https://www.currentaffairs.org/2022/12/we-live-in-the-age-of-the-bullshitter)
 - [The Age of Average](https://www.alexmurrell.co.uk/articles/the-age-of-average)
-- [Everything I, an Italian, Thought I Knew About Italian Food Is Wrong](https://www.ft.com/content/6ac009d5-dbfd-4a86-839e-28bb44b2b64c)
 - [Oops! We Automated Bullshit](https://www.cst.cam.ac.uk/blog/afb21/oops-we-automated-bullshit)
 - [We Live in a Golden Age of Crybullyism](https://www.thenation.com/article/society/crybullyism-bill-ackman-ruling-class/) 
  
 ##  Design 
  - [Copying Is the Way Design Works](https://matthewstrom.com/writing/copying/) 
  
-##  Games & Sports 
+##  Games 
  - [Playing to Win](https://www.sirlin.net/ptw)
 - [Open Source Game Clones](https://osgameclones.com/)
 - [Angry Birds, Farmville and Other Hyperaddictive 'Stupid Games'](https://www.nytimes.com/2012/04/08/magazine/angry-birds-farmville-and-other-hyperaddictive-stupid-games.html)
 - [Zendo: Design History](http://www.koryheath.com/zendo/design-history/)
 - [Solvability](https://www.sirlin.net/articles/solvability)
+- [D&D is Anti-Medieval](https://www.blogofholding.com/?p=7182)
 - [Babamots' Homeworlds Site](https://jpeterbaker.github.io/homeworlds/site/index.html)
 - [Hangman Is a Weird Game](https://www.youtube.com/watch?v=le5uGqHKll8)
 - [How To Learn Chess as an Adult](https://www.alexcrompton.com/blog/how-to-learn-chess)
 - [How to Play a Game](https://franklantz.substack.com/p/how-to-play-a-game)
-- [A Surf Legend's Long Ride](https://www.newyorker.com/magazine/2024/06/10/jock-sutherland-profile-surfing)
 - [The Rarest Move in Chess](https://www.youtube.com/watch?v=iDnW0WiCqNc) 
  
 ##  Language 
@@ -138,7 +138,8 @@
 - [Finish Your Projects](https://github.com/readme/guides/finish-your-projects)
 - [Stopping at 90%](https://austinhenley.com/blog/90percent.html)
 - [In This Essay I Will: On Distraction](https://www.theparisreview.org/blog/2023/08/23/in-this-essay-i-will-on-distraction/)
-- [The Art of Finishing](https://www.bytedrum.com/posts/art-of-finishing/) 
+- [The Art of Finishing](https://www.bytedrum.com/posts/art-of-finishing/)
+- [The Promise and Distraction of Productivity and Note-Taking Systems](https://www.baldurbjarnason.com/2024/the-promise-and-the-distraction/) 
  
 ##  Psychology 
  - [Why Aren't Smart People Happier?](https://experimentalhistory.substack.com/p/why-arent-smart-people-happier)
