@@ -34,7 +34,8 @@
 - [We Need To Rewild The Internet](https://www.noemamag.com/we-need-to-rewild-the-internet/) 
  
 ##  Consumer Goods 
- - [No Ordinary Pencil: A Portrait of the Eberhard Faber Blackwing 602](https://blackwingpages.wordpress.com/no-ordinary-pencil/)
+ - [Uses This](https://usesthis.com/)
+- [No Ordinary Pencil: A Portrait of the Eberhard Faber Blackwing 602](https://blackwingpages.wordpress.com/no-ordinary-pencil/)
 - [King of Click: The Story of the Greatest Keyboard Ever Made](https://www.theverge.com/2014/10/7/6882427/king-of-keys)
 - [How To Judge Quality in Clothing](https://putthison.com/how-to-judge-quality-in-clothing/)
 - [Things I Recommend You Buy and Use](https://s8mb.medium.com/things-i-recommend-you-buy-and-use-second-edition-457a8e7163f6)
@@ -58,6 +59,9 @@
 ##  Design 
  - [Copying Is the Way Design Works](https://matthewstrom.com/writing/copying/) 
  
+##  Food & Cooking 
+ - [Baking Tips & Techniques](https://www.kingarthurbaking.com/learn/resources/baking-tips-techniques) 
+ 
 ##  Games 
  - [Playing to Win](https://www.sirlin.net/ptw)
 - [Open Source Game Clones](https://osgameclones.com/)
@@ -70,7 +74,8 @@
 - [Hangman Is a Weird Game](https://www.youtube.com/watch?v=le5uGqHKll8)
 - [How To Learn Chess as an Adult](https://www.alexcrompton.com/blog/how-to-learn-chess)
 - [How to Play a Game](https://franklantz.substack.com/p/how-to-play-a-game)
-- [The Rarest Move in Chess](https://www.youtube.com/watch?v=iDnW0WiCqNc) 
+- [The Rarest Move in Chess](https://www.youtube.com/watch?v=iDnW0WiCqNc)
+- [The Greatest Game You've Never Heard Of](https://pudding.cool/2024/10/crokinole/) 
  
 ##  Language 
  - [What Consonant Clusters Are Possible?](https://www.tandfonline.com/doi/abs/10.1080/00437956.1978.11435661)
@@ -88,7 +93,8 @@
 - [How To Understand Things](https://nabeelqu.co/understanding)
 - [How To Self-Study Math](https://www.youtube.com/watch?v=fb_v5Bc8PSk)
 - [Effectively Self-Studying Over the Internet](https://luckytoilet.wordpress.com/2023/01/03/effectively-self-studying-over-the-internet/)
-- [Effective Spaced Repetition](https://borretti.me/article/effective-spaced-repetition) 
+- [Effective Spaced Repetition](https://borretti.me/article/effective-spaced-repetition)
+- [A Syllabus for Generalists](https://syllabusproject.org/a-syllabus-for-generalists/) 
  
 ##  Music 
  - [Blood on the Frets](https://web.archive.org/web/20211205225924/https://www.johnfahey.com/Blood.htm)
