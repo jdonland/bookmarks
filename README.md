@@ -13,6 +13,7 @@
  
 ##  Computers & The Web 
  - [Why Nothing Works Anymore](https://www.theatlantic.com/technology/archive/2017/02/the-singularity-in-the-toilet-stall/517551/)
+- [Torching the Modern-Day Library of Alexandria](https://www.theatlantic.com/technology/archive/2017/04/the-tragedy-of-google-books/523320/)
 - [PolitePol RSS Feed Generator](https://politepol.com/en/)
 - [The Rise and Demise of RSS](https://twobithistory.org/2018/12/18/rss.html)
 - [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
