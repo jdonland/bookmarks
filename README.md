@@ -27,12 +27,14 @@
 - [The False Promise of ChatGPT](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html)
 - [We Need More of Richard Stallman, Not Less](https://ploum.net/2023-06-19-more-rms.html)
 - [Generative AI Should Not Replace Thinking at My University](https://www.theatlantic.com/ideas/archive/2023/06/generative-artificial-intelligence-universities/674473/)
+- [Who Killed Google Reader?](https://www.theverge.com/23778253/google-reader-death-2013-rss-social)
 - [AI Does Not Exist But It Will Ruin Everything Anyway](https://www.youtube.com/watch?v=EUrOxh_0leE)
 - [Splitting the Web](https://ploum.net/2023-08-01-splitting-the-web.html)
 - [The Negative Impact of Mobile-First Web Design on Desktop](https://www.nngroup.com/articles/content-dispersion/)
 - [Internet Artifacts](https://neal.fun/internet-artifacts/)
 - [Where Have All the Websites Gone?](https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone/)
-- [We Need To Rewild The Internet](https://www.noemamag.com/we-need-to-rewild-the-internet/) 
+- [We Need To Rewild The Internet](https://www.noemamag.com/we-need-to-rewild-the-internet/)
+- [Forums Are Still Alive, Active, And A Treasure Trove Of Information](https://aftermath.site/best-active-forums-internet-today) 
  
 ##  Consumer Goods 
  - [Uses This](https://usesthis.com/)
@@ -76,6 +78,7 @@
 - [How To Learn Chess as an Adult](https://www.alexcrompton.com/blog/how-to-learn-chess)
 - [How to Play a Game](https://franklantz.substack.com/p/how-to-play-a-game)
 - [The Rarest Move in Chess](https://www.youtube.com/watch?v=iDnW0WiCqNc)
+- [Every Board Game Rulebook is Awful](https://boardgametextbook.com/EBGRIA.pdf)
 - [The Greatest Game You've Never Heard Of](https://pudding.cool/2024/10/crokinole/) 
  
 ##  Language 
@@ -193,6 +196,7 @@
 - [Why Canadian Cities Just Generally Suck](https://www.canadaland.com/jason-slaughter-why-canadian-cities-suck/)
 - [There's No Such Thing as Affordable Housing](https://www.strongtowns.org/journal/2023/1/3/theres-no-such-thing-as-affordable-housing)
 - [The Hidden Force That Shapes Everything Around Us: Parking](https://www.vox.com/23712664/parking-lots-urban-planning-cities-housing)
+- [Congestion in Cities: Can Road Capacity Expansions Provide a Solution?](https://www.sciencedirect.com/science/article/pii/S0965856423001465?via%3Dihub)
 - [Urbanism: Insidious Globalist Conspiracy or Self-Evident Common Sense?](https://www.youtube.com/watch?v=NzBMAwZlVd8)
 - [Who Owns the Streets? How Cars Took Over Our Shared Spaces](https://www.youtube.com/watch?v=GKRaNyvMxjU)
 - [Car Harm: A Global Review of Automobility’s Harm to People and the Environment](https://www.sciencedirect.com/science/article/pii/S0966692324000267#bb0390)
@@ -225,4 +229,5 @@
 - [Beyond the Status Quo: A Critical Assessment of Lifecycle Investment Advice](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4590406)
 - [Double-Entry Bookkeeping as a Directed Graph](https://matheusportela.com/double-entry-bookkeeping-as-a-directed-graph)
 - [White-Collar Work Is Just Meetings Now](https://www.theatlantic.com/ideas/archive/2024/07/white-collar-meetings-more-frequent/678941/)
-- [Panic! at the Job Market](https://matt.sh/panic-at-the-job-market) 
+- [Panic! at the Job Market](https://matt.sh/panic-at-the-job-market)
+- [6 Lessons I Learned Working at an Art Gallery](https://www.henrikkarlsson.xyz/p/art-gallery) 
