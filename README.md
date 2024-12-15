@@ -27,7 +27,6 @@
 - [The False Promise of ChatGPT](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html)
 - [We Need More of Richard Stallman, Not Less](https://ploum.net/2023-06-19-more-rms.html)
 - [Generative AI Should Not Replace Thinking at My University](https://www.theatlantic.com/ideas/archive/2023/06/generative-artificial-intelligence-universities/674473/)
-- [Who Killed Google Reader?](https://www.theverge.com/23778253/google-reader-death-2013-rss-social)
 - [AI Does Not Exist But It Will Ruin Everything Anyway](https://www.youtube.com/watch?v=EUrOxh_0leE)
 - [Splitting the Web](https://ploum.net/2023-08-01-splitting-the-web.html)
 - [The Negative Impact of Mobile-First Web Design on Desktop](https://www.nngroup.com/articles/content-dispersion/)
@@ -57,7 +56,8 @@
 - [We Live In The Age of The Bullshitter](https://www.currentaffairs.org/2022/12/we-live-in-the-age-of-the-bullshitter)
 - [The Age of Average](https://www.alexmurrell.co.uk/articles/the-age-of-average)
 - [Oops! We Automated Bullshit](https://www.cst.cam.ac.uk/blog/afb21/oops-we-automated-bullshit)
-- [We Live in a Golden Age of Crybullyism](https://www.thenation.com/article/society/crybullyism-bill-ackman-ruling-class/) 
+- [We Live in a Golden Age of Crybullyism](https://www.thenation.com/article/society/crybullyism-bill-ackman-ruling-class/)
+- [The Hawk Tuah Memecoin Rug Pull Is The Apotheosis Of Bag Culture](https://defector.com/the-hawk-tuah-memecoin-rug-pull-is-the-apotheosis-of-bag-culture) 
  
 ##  Design 
  - [Copying Is the Way Design Works](https://matthewstrom.com/writing/copying/) 
@@ -210,6 +210,7 @@
 - [Jerry's Map](https://www.jerrysmap.com/what-is-it)
 - [The Impossible World of M. C. Escher](https://www.theguardian.com/artanddesign/2015/jun/20/the-impossible-world-of-mc-escher)
 - [François Avril: Over the Window](https://hubertybreyne.com/en/expositions/presentation/142/over-the-window)
+- [Rhythmical Lines](https://www.theparisreview.org/blog/2017/02/15/rhythmical-lines/)
 - [1917‒2017, 100 Years of De Stijl](https://craigberry93.medium.com/1917-2017-100-years-of-de-stijl-581dcc95681)
 - [Interview with Generative Artist Kjetil Golid](https://www.artnome.com/news/2020/10/11/interview-with-generative-artist-kjetil-golid)
 - [Democratic Graphics: The Political and Graphic Work of Gerd Arntz 1920‒1940](https://designabilities.wordpress.com/2020/12/11/democratic-graphics-the-political-and-graphic-work-of-gerd-arntz-1920-1940/)
