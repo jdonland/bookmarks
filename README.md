@@ -33,7 +33,8 @@
 - [Internet Artifacts](https://neal.fun/internet-artifacts/)
 - [Where Have All the Websites Gone?](https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone/)
 - [We Need To Rewild The Internet](https://www.noemamag.com/we-need-to-rewild-the-internet/)
-- [Forums Are Still Alive, Active, And A Treasure Trove Of Information](https://aftermath.site/best-active-forums-internet-today) 
+- [Forums Are Still Alive, Active, And A Treasure Trove Of Information](https://aftermath.site/best-active-forums-internet-today)
+- [Algorithmic Ranking Is Unfairly Maligned](https://dynomight.net/ranking/) 
  
 ##  Consumer Goods 
  - [Uses This](https://usesthis.com/)
@@ -201,7 +202,8 @@
 - [Who Owns the Streets? How Cars Took Over Our Shared Spaces](https://www.youtube.com/watch?v=GKRaNyvMxjU)
 - [Car Harm: A Global Review of Automobility’s Harm to People and the Environment](https://www.sciencedirect.com/science/article/pii/S0966692324000267#bb0390)
 - [Why Kids Don't Go Outside Anymore](https://www.youtube.com/watch?v=W2nB0zchM4I)
-- [Americans' Love Affair With Big Cars Is Killing Them](https://www.economist.com/interactive/united-states/2024/08/31/americans-love-affair-with-big-cars-is-killing-them) 
+- [Americans' Love Affair With Big Cars Is Killing Them](https://www.economist.com/interactive/united-states/2024/08/31/americans-love-affair-with-big-cars-is-killing-them)
+- [The Inventor of Transit](https://www.straphanger.blog/the-inventor-of-transit/) 
  
 ##  Visual Art 
  - [The Codex Seraphinianus](https://www.thebeliever.net/the-codex-seraphinianus/)
