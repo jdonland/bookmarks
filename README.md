@@ -169,7 +169,8 @@
 - [Upstate](https://www.newyorker.com/magazine/2023/10/30/upstate-fiction-emma-cline) 
  
 ##  Style 
- - [The Most Stylish Man Alive](https://dieworkwear.com/2019/04/20/the-most-stylish-man-alive/)
+ - [Barbours in the Falklands](https://putthison.com/barbours-in-the-falklands/)
+- [The Most Stylish Man Alive](https://dieworkwear.com/2019/04/20/the-most-stylish-man-alive/)
 - [How To Develop Good Taste, Pt. 1](https://dieworkwear.com/2022/08/26/how-to-develop-good-taste-pt-1/)
 - [How To Develop Good Taste, Pt. 2](https://dieworkwear.com/2022/09/14/how-to-develop-good-taste-pt-2/)
 - [How To Develop Good Taste, Pt. 3](https://dieworkwear.com/2022/09/23/how-to-develop-good-taste-pt-3/)
@@ -206,7 +207,8 @@
 - [Car Harm: A Global Review of Automobility’s Harm to People and the Environment](https://www.sciencedirect.com/science/article/pii/S0966692324000267#bb0390)
 - [Why Kids Don't Go Outside Anymore](https://www.youtube.com/watch?v=W2nB0zchM4I)
 - [Americans' Love Affair With Big Cars Is Killing Them](https://www.economist.com/interactive/united-states/2024/08/31/americans-love-affair-with-big-cars-is-killing-them)
-- [The Inventor of Transit](https://www.straphanger.blog/the-inventor-of-transit/) 
+- [The Inventor of Transit](https://www.straphanger.blog/the-inventor-of-transit/)
+- [The Prophet of Parking](https://www.worksinprogress.news/p/the-prophet-of-parking) 
  
 ##  Visual Art 
  - [The Codex Seraphinianus](https://www.thebeliever.net/the-codex-seraphinianus/)
