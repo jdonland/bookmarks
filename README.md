@@ -33,7 +33,7 @@
 - [Internet Artifacts](https://neal.fun/internet-artifacts/)
 - [Where Have All the Websites Gone?](https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone/)
 - [We Need To Rewild The Internet](https://www.noemamag.com/we-need-to-rewild-the-internet/)
-- [Forums Are Still Alive, Active, And A Treasure Trove Of Information](https://aftermath.site/best-active-forums-internet-today)
+- [Forums Are Still Alive, Active, and a Treasure Trove of Information](https://aftermath.site/best-active-forums-internet-today)
 - [Algorithmic Ranking Is Unfairly Maligned](https://dynomight.net/ranking/) 
  
 ##  Consumer Goods 
@@ -42,6 +42,7 @@
 - [King of Click: The Story of the Greatest Keyboard Ever Made](https://www.theverge.com/2014/10/7/6882427/king-of-keys)
 - [How To Judge Quality in Clothing](https://putthison.com/how-to-judge-quality-in-clothing/)
 - [Things I Recommend You Buy and Use](https://s8mb.medium.com/things-i-recommend-you-buy-and-use-second-edition-457a8e7163f6)
+- [Gridfinity: Your Ultimate Modular Workshop is FREE!](https://www.youtube.com/watch?v=ra_9zU-mnl8)
 - [Shaving Is Too Expensive](https://www.johnwhiles.com/posts/shaving)
 - [Your Stuff Is Actually Worse Now](https://www.vox.com/the-goods/23529587/consumer-goods-quality-fast-fashion-technology)
 - [What Happened to Sweaters?](https://www.theatlantic.com/technology/archive/2023/10/sweater-clothing-quality-natural-fibers-fast-fashion/675600/)
@@ -58,7 +59,7 @@
 - [The Age of Average](https://www.alexmurrell.co.uk/articles/the-age-of-average)
 - [Oops! We Automated Bullshit](https://www.cst.cam.ac.uk/blog/afb21/oops-we-automated-bullshit)
 - [We Live in a Golden Age of Crybullyism](https://www.thenation.com/article/society/crybullyism-bill-ackman-ruling-class/)
-- [The Hawk Tuah Memecoin Rug Pull Is The Apotheosis Of Bag Culture](https://defector.com/the-hawk-tuah-memecoin-rug-pull-is-the-apotheosis-of-bag-culture) 
+- [The Hawk Tuah Memecoin Rug Pull Is the Apotheosis of Bag Culture](https://defector.com/the-hawk-tuah-memecoin-rug-pull-is-the-apotheosis-of-bag-culture) 
  
 ##  Design 
  - [Copying Is the Way Design Works](https://matthewstrom.com/writing/copying/) 
@@ -74,10 +75,11 @@
 - [How I Invented Games and Why Not](https://mindsports.nl/index.php/how-i-invented-games-and-why-not)
 - [Solvability](https://www.sirlin.net/articles/solvability)
 - [D&D is Anti-Medieval](https://www.blogofholding.com/?p=7182)
+- [40+ Great Card Games For All Occasions](https://playingcarddecks.com/blogs/all-in/40-great-card-games-for-all-occasions)
 - [Babamots' Homeworlds Site](https://jpeterbaker.github.io/homeworlds/site/index.html)
 - [Hangman Is a Weird Game](https://www.youtube.com/watch?v=le5uGqHKll8)
 - [How To Learn Chess as an Adult](https://www.alexcrompton.com/blog/how-to-learn-chess)
-- [How to Play a Game](https://franklantz.substack.com/p/how-to-play-a-game)
+- [How To Play a Game](https://franklantz.substack.com/p/how-to-play-a-game)
 - [The Rarest Move in Chess](https://www.youtube.com/watch?v=iDnW0WiCqNc)
 - [Every Board Game Rulebook is Awful](https://boardgametextbook.com/EBGRIA.pdf)
 - [The Greatest Game You've Never Heard Of](https://pudding.cool/2024/10/crokinole/) 
@@ -141,6 +143,7 @@
 - [Laundry](https://www.newyorker.com/magazine/2024/05/06/laundry-ellen-bass-poem)
 - [This Living](https://www.newyorker.com/magazine/2024/06/10/this-living-amber-tamblyn-poem)
 - [This is a Test of the Federal Emergency Management Agency Wireless Warning System](https://www.newyorker.com/magazine/2024/08/05/this-is-a-test-of-the-federal-emergency-management-agency-wireless-warning-system-dobby-gibson-poem)
+- [Prelude in Grey Major](https://www.newyorker.com/magazine/2024/12/30/prelude-in-grey-major-christian-wiman-poem)
 - [To Explicate Meaning](https://pastebin.com/raw/kFML7mRK) 
  
 ##  Productivity 
@@ -221,10 +224,10 @@
  
 ##  Work & Money 
  - [Pricing Money](http://www.jdawiseman.com/books/pricing-money/Pricing_Money_JDAWiseman.html)
-- [On the Phenomenon of Bullshit Jobs](https://www.atlasofplaces.com/essays/on-the-phenomenon-of-bullshit-jobs/)
+- [On the Phenomenon of Bullshit Jobs](https://strikemag.org/bullshit-jobs/)
 - [The Singular Pursuit of Comrade Bezos](https://medium.com/s/story/the-singular-pursuit-of-comrade-bezos-3e280baa045c)
 - [There's Nothing to Do Except Gamble](https://nymag.com/intelligencer/2021/04/nft-future-of-money.html)
-- [Finding and Funding a Good Life](https://www.pwlcapital.com/wp-content/uploads/2022/11/2022-04-25_PWL_WP_Felix_Finding_and_Funding_Good_Life_V2.pdf)
+- [Finding and Funding a Good Life](https://pwlcapital.com/wp-content/uploads/2023/07/2023-05-02_PWL_WP_Felix_Finding_and_Funding_Good_LifeFinal.pdf)
 - [The Homeownership Society Was a Mistake](https://www.theatlantic.com/newsletters/archive/2022/12/homeownership-real-estate-investment-renting/672511/)
 - [Poor People Pay Higher Time Tax](https://pluralistic.net/2023/02/10/my-time/)
 - [Maybe Treating Housing as an Investment was a Colossal, Society-Shattering Mistake](https://goodreason.substack.com/p/maybe-treating-housing-as-an-investment)
