@@ -189,6 +189,7 @@
 - [Visual History of the Latin Alphabet](https://uclab.fh-potsdam.de/arete/en)
 - [The Doves Type, Revisited](https://www.typeroom.eu/the-doves-type-revisited-robert-green-upgrades-an-iconic-typeface)
 - [Badness 0 (Apostrophe's version)](https://www.youtube.com/watch?v=Y65FRxE7uMc)
+- [The Hardest Working Font in Manhattan](https://aresluna.org/the-hardest-working-font-in-manhattan/)
 - [Lloyd Reynolds, Robert Palladino, and Calligraphy at Reed College](https://www.reed.edu/calligraphy/history.html) 
  
 ##  Urbanism & Transit 
