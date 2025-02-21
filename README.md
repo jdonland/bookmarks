@@ -166,7 +166,8 @@
  - [Break It Down](https://www.theparisreview.org/fiction/3063/break-it-down-lydia-davis)
 - [Second Person, Present Tense](https://www.baen.com/Chapters/9781618248992/9781618248992___2.htm)
 - [MMAcevedo](https://qntm.org/mmacevedo)
-- [Upstate](https://www.newyorker.com/magazine/2023/10/30/upstate-fiction-emma-cline) 
+- [Upstate](https://www.newyorker.com/magazine/2023/10/30/upstate-fiction-emma-cline)
+- [The Ideal Candidate Will Be Punched in the Stomach](https://www.scottsmitelli.com/articles/ideal-candidate/) 
  
 ##  Style 
  - [Barbours in the Falklands](https://putthison.com/barbours-in-the-falklands/)
@@ -177,7 +178,8 @@
 - [Articles of Interest - American Ivy](https://articlesofinterest.substack.com/p/american-ivy-chapter-1) 
  
 ##  Typography & Handwriting 
- - [A Handwriting Manual](https://archive.org/details/AHandwritingManual/)
+ - [Society for Italic Handwriting](https://www.italic-handwriting.org/)
+- [A Handwriting Manual](https://archive.org/details/AHandwritingManual/)
 - [Notes on Type Design](https://help.fontlab.com/fontlab/8/tutorials/briem/)
 - [Palatino Nova: A Classical Typeface Redesigned by Hermann Zapf](http://www.linotype.co.jp/P2/Palatino%20nova%20Brochure.pdf)
 - [Three Typefaces for Mathematics](https://web.archive.org/web/20091229042035/http://www.typeculture.com/academic_resource/articles_essays/pdfs/tc_article_47.pdf)
