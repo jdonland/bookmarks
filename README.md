@@ -9,7 +9,8 @@
 - [Ghost World at Twenty: Daniel Clowes's Dialogue](https://www.tcj.com/ghost-world-at-twenty-daniel-clowess-dialogue/)
 - [LOL, CAT: The Best Internet is "Weird Heathcliff" Internet](https://theoutline.com/post/4084/the-internet-oddballs-who-think-the-heathcliff-comics-are-deep)
 - [Usagi Yojimbo's Neverending Story](https://www.tcj.com/usagi-yojimbos-neverending-story/)
-- [Everybody's Mad About Heathcliff](https://solrad.co/everybodys-mad-about-heathcliff) 
+- [Everybody's Mad About Heathcliff](https://solrad.co/everybodys-mad-about-heathcliff)
+- [Celebrating the Timeless Allure of Tintin's Aesthetics](https://collegetowns.substack.com/p/celebrating-the-timeless-allure-of) 
  
 ##  Computers & The Web 
  - [Why Nothing Works Anymore](https://www.theatlantic.com/technology/archive/2017/02/the-singularity-in-the-toilet-stall/517551/)
@@ -42,6 +43,7 @@
 - [King of Click: The Story of the Greatest Keyboard Ever Made](https://www.theverge.com/2014/10/7/6882427/king-of-keys)
 - [How To Judge Quality in Clothing](https://putthison.com/how-to-judge-quality-in-clothing/)
 - [Things I Recommend You Buy and Use](https://s8mb.medium.com/things-i-recommend-you-buy-and-use-second-edition-457a8e7163f6)
+- [The Golden Age of Japanese Pencils, 1952-1967](https://notes.stlartsupply.com/the-golden-age-of-japanese-pencils-1952-1967/)
 - [Gridfinity: Your Ultimate Modular Workshop is FREE!](https://www.youtube.com/watch?v=ra_9zU-mnl8)
 - [Shaving Is Too Expensive](https://www.johnwhiles.com/posts/shaving)
 - [Your Stuff Is Actually Worse Now](https://www.vox.com/the-goods/23529587/consumer-goods-quality-fast-fashion-technology)
@@ -144,7 +146,8 @@
 - [This Living](https://www.newyorker.com/magazine/2024/06/10/this-living-amber-tamblyn-poem)
 - [This is a Test of the Federal Emergency Management Agency Wireless Warning System](https://www.newyorker.com/magazine/2024/08/05/this-is-a-test-of-the-federal-emergency-management-agency-wireless-warning-system-dobby-gibson-poem)
 - [Prelude in Grey Major](https://www.newyorker.com/magazine/2024/12/30/prelude-in-grey-major-christian-wiman-poem)
-- [To Explicate Meaning](https://pastebin.com/raw/kFML7mRK) 
+- [To Explicate Meaning](https://pastebin.com/raw/kFML7mRK)
+- [Main Merge File, Second Merge File](https://i.imgur.com/heEwbQp.png) 
  
 ##  Productivity 
  - [Productivity 101: An Introduction to The Pomodoro Technique](https://lifehacker.com/productivity-101-a-primer-to-the-pomodoro-technique-1598992730)
@@ -241,4 +244,5 @@
 - [Double-Entry Bookkeeping as a Directed Graph](https://matheusportela.com/double-entry-bookkeeping-as-a-directed-graph)
 - [White-Collar Work Is Just Meetings Now](https://www.theatlantic.com/ideas/archive/2024/07/white-collar-meetings-more-frequent/678941/)
 - [Panic! at the Job Market](https://matt.sh/panic-at-the-job-market)
-- [6 Lessons I Learned Working at an Art Gallery](https://www.henrikkarlsson.xyz/p/art-gallery) 
+- [6 Lessons I Learned Working at an Art Gallery](https://www.henrikkarlsson.xyz/p/art-gallery)
+- [The Case for Index Funds](https://www.youtube.com/watch?v=Nv5CiRSCVxA) 
