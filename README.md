@@ -163,7 +163,8 @@
  - [Why Aren't Smart People Happier?](https://experimentalhistory.substack.com/p/why-arent-smart-people-happier)
 - [Notes on Puzzles](https://nabeelqu.substack.com/p/notes-on-puzzles)
 - [The Fragile Connection Between Liking And Wanting Is Crucial To Our Survival](http://thekramerisnow.blogspot.com/2024/03/the-fragile-connection-between-liking.html)
-- [The Battle for Attention](https://www.newyorker.com/magazine/2024/05/06/the-battle-for-attention) 
+- [The Battle for Attention](https://www.newyorker.com/magazine/2024/05/06/the-battle-for-attention)
+- [What if the Attention Crisis Is All a Distraction?](https://www.newyorker.com/magazine/2025/01/27/the-sirens-call-chris-hayes-book-review) 
  
 ##  Short Fiction 
  - [Break It Down](https://www.theparisreview.org/fiction/3063/break-it-down-lydia-davis)
@@ -186,6 +187,7 @@
 - [Notes on Type Design](https://help.fontlab.com/fontlab/8/tutorials/briem/)
 - [Palatino Nova: A Classical Typeface Redesigned by Hermann Zapf](http://www.linotype.co.jp/P2/Palatino%20nova%20Brochure.pdf)
 - [Three Typefaces for Mathematics](https://web.archive.org/web/20091229042035/http://www.typeculture.com/academic_resource/articles_essays/pdfs/tc_article_47.pdf)
+- [The Secret Law of Page Harmony](https://retinart.net/graphic-design/secret-law-of-page-harmony/)
 - [Type Hunting](https://typehunting.com/)
 - [How to Write 225 Words Per Minute With a Pen](https://www.theatlantic.com/technology/archive/2014/06/yeah-i-still-use-shorthand-and-a-smartpen/373281/)
 - [Let's Talk About Margins](https://medium.com/message/lets-talk-about-margins-14646574c385)
@@ -228,7 +230,8 @@
 - [Interview with Generative Artist Kjetil Golid](https://www.artnome.com/news/2020/10/11/interview-with-generative-artist-kjetil-golid)
 - [Democratic Graphics: The Political and Graphic Work of Gerd Arntz 1920‒1940](https://designabilities.wordpress.com/2020/12/11/democratic-graphics-the-political-and-graphic-work-of-gerd-arntz-1920-1940/)
 - [Ragna Róbertsdóttir](https://www.artforum.com/events/ragna-robertsdottir-248913/)
-- [Tauba Auerbach in 'Bodies of Knowledge'](https://art21.org/watch/art-in-the-twenty-first-century/s11/tauba-auerbach-in-bodies-of-knowledge/) 
+- [Tauba Auerbach in 'Bodies of Knowledge'](https://art21.org/watch/art-in-the-twenty-first-century/s11/tauba-auerbach-in-bodies-of-knowledge/)
+- [Atypography](https://www.atypography.com/) 
  
 ##  Work & Money 
  - [Pricing Money](http://www.jdawiseman.com/books/pricing-money/Pricing_Money_JDAWiseman.html)
