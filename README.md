@@ -35,7 +35,8 @@
 - [Where Have All the Websites Gone?](https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone/)
 - [We Need To Rewild The Internet](https://www.noemamag.com/we-need-to-rewild-the-internet/)
 - [Forums Are Still Alive, Active, and a Treasure Trove of Information](https://aftermath.site/best-active-forums-internet-today)
-- [Algorithmic Ranking Is Unfairly Maligned](https://dynomight.net/ranking/) 
+- [Algorithmic Ranking Is Unfairly Maligned](https://dynomight.net/ranking/)
+- [Pipelining Might Be My Favorite Programming Language Feature](https://herecomesthemoon.net/2025/04/pipelining/) 
  
 ##  Consumer Goods 
  - [Uses This](https://usesthis.com/)
@@ -61,7 +62,8 @@
 - [The Age of Average](https://www.alexmurrell.co.uk/articles/the-age-of-average)
 - [Oops! We Automated Bullshit](https://www.cst.cam.ac.uk/blog/afb21/oops-we-automated-bullshit)
 - [We Live in a Golden Age of Crybullyism](https://www.thenation.com/article/society/crybullyism-bill-ackman-ruling-class/)
-- [The Hawk Tuah Memecoin Rug Pull Is the Apotheosis of Bag Culture](https://defector.com/the-hawk-tuah-memecoin-rug-pull-is-the-apotheosis-of-bag-culture) 
+- [The Hawk Tuah Memecoin Rug Pull Is the Apotheosis of Bag Culture](https://defector.com/the-hawk-tuah-memecoin-rug-pull-is-the-apotheosis-of-bag-culture)
+- [The America I Loved Is Gone](https://www.theguardian.com/us-news/ng-interactive/2025/apr/20/american-dream-trump-canada) 
  
 ##  Design 
  - [Copying Is the Way Design Works](https://matthewstrom.com/writing/copying/) 
@@ -81,6 +83,7 @@
 - [Babamots' Homeworlds Site](https://jpeterbaker.github.io/homeworlds/site/index.html)
 - [Hangman Is a Weird Game](https://www.youtube.com/watch?v=le5uGqHKll8)
 - [How To Learn Chess as an Adult](https://www.alexcrompton.com/blog/how-to-learn-chess)
+- [A Visual History of Chessmen](https://chesshistory.github.io/)
 - [How To Play a Game](https://franklantz.substack.com/p/how-to-play-a-game)
 - [The Rarest Move in Chess](https://www.youtube.com/watch?v=iDnW0WiCqNc)
 - [Every Board Game Rulebook is Awful](https://boardgametextbook.com/EBGRIA.pdf)
@@ -104,6 +107,9 @@
 - [Effectively Self-Studying Over the Internet](https://luckytoilet.wordpress.com/2023/01/03/effectively-self-studying-over-the-internet/)
 - [Effective Spaced Repetition](https://borretti.me/article/effective-spaced-repetition)
 - [A Syllabus for Generalists](https://syllabusproject.org/a-syllabus-for-generalists/) 
+ 
+##  Literature 
+ - [Sayaka Murata's Alien Eye](https://www.newyorker.com/magazine/2025/04/14/sayaka-muratas-alien-eye) 
  
 ##  Music 
  - [Blood on the Frets](https://web.archive.org/web/20211205225924/https://www.johnfahey.com/Blood.htm)
@@ -227,6 +233,7 @@
 - [François Avril: Over the Window](https://hubertybreyne.com/en/expositions/presentation/142/over-the-window)
 - [Rhythmical Lines](https://www.theparisreview.org/blog/2017/02/15/rhythmical-lines/)
 - [1917‒2017, 100 Years of De Stijl](https://craigberry93.medium.com/1917-2017-100-years-of-de-stijl-581dcc95681)
+- [Masamatsu Sashie](https://kpprojectsgallery.net/artists/masakatsu-sashie/)
 - [Interview with Generative Artist Kjetil Golid](https://www.artnome.com/news/2020/10/11/interview-with-generative-artist-kjetil-golid)
 - [Democratic Graphics: The Political and Graphic Work of Gerd Arntz 1920‒1940](https://designabilities.wordpress.com/2020/12/11/democratic-graphics-the-political-and-graphic-work-of-gerd-arntz-1920-1940/)
 - [Ragna Róbertsdóttir](https://www.artforum.com/events/ragna-robertsdottir-248913/)
