@@ -193,6 +193,7 @@
 - [Notes on Type Design](https://help.fontlab.com/fontlab/8/tutorials/briem/)
 - [Palatino Nova: A Classical Typeface Redesigned by Hermann Zapf](http://www.linotype.co.jp/P2/Palatino%20nova%20Brochure.pdf)
 - [Three Typefaces for Mathematics](https://web.archive.org/web/20091229042035/http://www.typeculture.com/academic_resource/articles_essays/pdfs/tc_article_47.pdf)
+- [Calligraphy Skills](https://www.calligraphy-skills.com/)
 - [The Secret Law of Page Harmony](https://retinart.net/graphic-design/secret-law-of-page-harmony/)
 - [Type Hunting](https://typehunting.com/)
 - [How to Write 225 Words Per Minute With a Pen](https://www.theatlantic.com/technology/archive/2014/06/yeah-i-still-use-shorthand-and-a-smartpen/373281/)
@@ -243,6 +244,7 @@
 ##  Work & Money 
  - [Pricing Money](http://www.jdawiseman.com/books/pricing-money/Pricing_Money_JDAWiseman.html)
 - [On the Phenomenon of Bullshit Jobs](https://strikemag.org/bullshit-jobs/)
+- [Millennials Are Screwed](https://highline.huffingtonpost.com/articles/en/poor-millennials/)
 - [The Singular Pursuit of Comrade Bezos](https://medium.com/s/story/the-singular-pursuit-of-comrade-bezos-3e280baa045c)
 - [There's Nothing to Do Except Gamble](https://nymag.com/intelligencer/2021/04/nft-future-of-money.html)
 - [Finding and Funding a Good Life](https://pwlcapital.com/wp-content/uploads/2023/07/2023-05-02_PWL_WP_Felix_Finding_and_Funding_Good_LifeFinal.pdf)
