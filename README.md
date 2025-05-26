@@ -122,9 +122,9 @@
  
 ##  Philosophy 
  - [Whose Idea Is It, Anyway?](http://linguafranca.mirror.theinfo.org/Archive/whose.html)
-- [Ludwig Wittgenstein](https://plato.stanford.edu/entries/wittgenstein/)
 - [Zhuangzi and That Bloody Butterfly](https://philosophynow.org/issues/76/Zhuangzi_And_That_Bloody_Butterfly)
 - [Use and Mention](https://cs.lmu.edu/~ray/notes/usemention/)
+- [Wittgenstein in 800 Words](https://philosophersmag.com/wittgenstein-in-800-words/)
 - [The Normative Status of Logic](https://plato.stanford.edu/entries/logic-normative/)
 - [The Interpretation of Probability: Still an Open Issue?](https://www.mdpi.com/2409-9287/2/3/20)
 - [It's All Bullsh*t! On the Relationship Between Pseudoscience and Pseudophilosophy](https://medium.com/socrates-cafe/its-all-bullshit-on-the-relationship-between-pseudoscience-and-pseudophilosophy-3485ade26500)
