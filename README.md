@@ -63,7 +63,8 @@
 - [Oops! We Automated Bullshit](https://www.cst.cam.ac.uk/blog/afb21/oops-we-automated-bullshit)
 - [We Live in a Golden Age of Crybullyism](https://www.thenation.com/article/society/crybullyism-bill-ackman-ruling-class/)
 - [The Hawk Tuah Memecoin Rug Pull Is the Apotheosis of Bag Culture](https://defector.com/the-hawk-tuah-memecoin-rug-pull-is-the-apotheosis-of-bag-culture)
-- [The America I Loved Is Gone](https://www.theguardian.com/us-news/ng-interactive/2025/apr/20/american-dream-trump-canada) 
+- [The America I Loved Is Gone](https://www.theguardian.com/us-news/ng-interactive/2025/apr/20/american-dream-trump-canada)
+- [The Who Cares Era](https://dansinker.com/posts/2025-05-23-who-cares/) 
  
 ##  Design 
  - [Copying Is the Way Design Works](https://matthewstrom.com/writing/copying/) 
@@ -201,6 +202,7 @@
 - [Counterspace Typography Timeline](https://timeline.counterspace.us/)
 - [A 17th-Century Font in a 21st-Century Thesis](https://www.linyangchen.com/Typography-Fell-Types-font)
 - [Visual History of the Latin Alphabet](https://uclab.fh-potsdam.de/arete/en)
+- [Converting a Typewrite to Colemak](https://soender.blog/Converting-a-Typewriter-to-Colemak/)
 - [The Doves Type, Revisited](https://www.typeroom.eu/the-doves-type-revisited-robert-green-upgrades-an-iconic-typeface)
 - [Badness 0 (Apostrophe's version)](https://www.youtube.com/watch?v=Y65FRxE7uMc)
 - [The Hardest Working Font in Manhattan](https://aresluna.org/the-hardest-working-font-in-manhattan/)
