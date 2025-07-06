@@ -36,7 +36,8 @@
 - [We Need To Rewild The Internet](https://www.noemamag.com/we-need-to-rewild-the-internet/)
 - [Forums Are Still Alive, Active, and a Treasure Trove of Information](https://aftermath.site/best-active-forums-internet-today)
 - [Algorithmic Ranking Is Unfairly Maligned](https://dynomight.net/ranking/)
-- [Pipelining Might Be My Favorite Programming Language Feature](https://herecomesthemoon.net/2025/04/pipelining/) 
+- [Pipelining Might Be My Favorite Programming Language Feature](https://herecomesthemoon.net/2025/04/pipelining/)
+- [The Rise of Whatever](https://eev.ee/blog/2025/07/03/the-rise-of-whatever/) 
  
 ##  Consumer Goods 
  - [Uses This](https://usesthis.com/)
