@@ -108,7 +108,8 @@
 - [How To Self-Study Math](https://www.youtube.com/watch?v=fb_v5Bc8PSk)
 - [Effectively Self-Studying Over the Internet](https://luckytoilet.wordpress.com/2023/01/03/effectively-self-studying-over-the-internet/)
 - [Effective Spaced Repetition](https://borretti.me/article/effective-spaced-repetition)
-- [A Syllabus for Generalists](https://syllabusproject.org/a-syllabus-for-generalists/) 
+- [A Syllabus for Generalists](https://syllabusproject.org/a-syllabus-for-generalists/)
+- [You Can Try to Like Stuff](https://dynomight.net/liking/) 
  
 ##  Literature 
  - [Sayaka Murata's Alien Eye](https://www.newyorker.com/magazine/2025/04/14/sayaka-muratas-alien-eye) 
@@ -203,7 +204,7 @@
 - [Counterspace Typography Timeline](https://timeline.counterspace.us/)
 - [A 17th-Century Font in a 21st-Century Thesis](https://www.linyangchen.com/Typography-Fell-Types-font)
 - [Visual History of the Latin Alphabet](https://uclab.fh-potsdam.de/arete/en)
-- [Converting a Typewrite to Colemak](https://soender.blog/Converting-a-Typewriter-to-Colemak/)
+- [Converting a Typewriter to Colemak](https://soender.blog/Converting-a-Typewriter-to-Colemak/)
 - [The Doves Type, Revisited](https://www.typeroom.eu/the-doves-type-revisited-robert-green-upgrades-an-iconic-typeface)
 - [Badness 0 (Apostrophe's version)](https://www.youtube.com/watch?v=Y65FRxE7uMc)
 - [The Hardest Working Font in Manhattan](https://aresluna.org/the-hardest-working-font-in-manhattan/)
