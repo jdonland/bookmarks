@@ -4,3 +4,5 @@
 .Ruserdata
 bookmarks.Rproj
 .vscode/settings.json
+.vscode/extensions.json
+air.toml

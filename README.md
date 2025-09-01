@@ -166,7 +166,8 @@
 - [Stopping at 90%](https://austinhenley.com/blog/90percent.html)
 - [In This Essay I Will: On Distraction](https://www.theparisreview.org/blog/2023/08/23/in-this-essay-i-will-on-distraction/)
 - [The Art of Finishing](https://www.bytedrum.com/posts/art-of-finishing/)
-- [The Promise and Distraction of Productivity and Note-Taking Systems](https://www.baldurbjarnason.com/2024/the-promise-and-the-distraction/) 
+- [The Promise and Distraction of Productivity and Note-Taking Systems](https://www.baldurbjarnason.com/2024/the-promise-and-the-distraction/)
+- [Notes on Managing ADHD](https://borretti.me/article/notes-on-managing-adhd) 
  
 ##  Psychology 
  - [Why Aren't Smart People Happier?](https://experimentalhistory.substack.com/p/why-arent-smart-people-happier)
