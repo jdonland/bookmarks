@@ -1,7 +1,4 @@
 
-##  Cinema 
- - [Review of American Eccentric Cinema](https://journals.openedition.org/inmedia/2342) 
- 
 ##  Comics 
  - [Jean "Moebius" Giraud, 1938‒2012](https://www.tcj.com/jean-moebius-giraud-1938-2012/)
 - [Moebius and the Key of Dreams](https://www.theparisreview.org/blog/2015/10/21/moebius-and-the-key-of-dreams/)
@@ -45,13 +42,15 @@
 - [King of Click: The Story of the Greatest Keyboard Ever Made](https://www.theverge.com/2014/10/7/6882427/king-of-keys)
 - [How To Judge Quality in Clothing](https://putthison.com/how-to-judge-quality-in-clothing/)
 - [Things I Recommend You Buy and Use](https://s8mb.medium.com/things-i-recommend-you-buy-and-use-second-edition-457a8e7163f6)
-- [The Golden Age of Japanese Pencils, 1952-1967](https://notes.stlartsupply.com/the-golden-age-of-japanese-pencils-1952-1967/)
+- [The Golden Age of Japanese Pencils, 1952–1967](https://notes.stlartsupply.com/the-golden-age-of-japanese-pencils-1952-1967/)
 - [Gridfinity: Your Ultimate Modular Workshop is FREE!](https://www.youtube.com/watch?v=ra_9zU-mnl8)
 - [Shaving Is Too Expensive](https://www.johnwhiles.com/posts/shaving)
 - [Your Stuff Is Actually Worse Now](https://www.vox.com/the-goods/23529587/consumer-goods-quality-fast-fashion-technology)
+- [Time Travelling With IKEA Catalogs, 1950–2021](https://ikeamuseum.com/en/explore/ikea-catalogue/)
 - [What Happened to Sweaters?](https://www.theatlantic.com/technology/archive/2023/10/sweater-clothing-quality-natural-fibers-fast-fashion/675600/)
 - [Why Every Microwave Sucks These Days, and the Death of Instant Pot](https://moth.monster/blog/microwaves/)
-- [Why Are (Most) Sofas So Bad?](https://www.dwell.com/article/dtc-sofa-crisis-32304b9e) 
+- [Why Are (Most) Sofas So Bad?](https://www.dwell.com/article/dtc-sofa-crisis-32304b9e)
+- [I'm Tired of Listening to Nerds and Dweebs](https://www.youtube.com/watch?v=3S9OZTQa0eY) 
  
 ##  Culture & Politics 
  - [Amusing Ourselves to Death](https://web.archive.org/web/20100801095556/http://www.recombinantrecords.net/images/2009-05-Amusing-Ourselves-to-Death.pdf)
@@ -65,13 +64,8 @@
 - [We Live in a Golden Age of Crybullyism](https://www.thenation.com/article/society/crybullyism-bill-ackman-ruling-class/)
 - [The Hawk Tuah Memecoin Rug Pull Is the Apotheosis of Bag Culture](https://defector.com/the-hawk-tuah-memecoin-rug-pull-is-the-apotheosis-of-bag-culture)
 - [The America I Loved Is Gone](https://www.theguardian.com/us-news/ng-interactive/2025/apr/20/american-dream-trump-canada)
-- [The Who Cares Era](https://dansinker.com/posts/2025-05-23-who-cares/) 
- 
-##  Design 
- - [Copying Is the Way Design Works](https://matthewstrom.com/writing/copying/) 
- 
-##  Food & Cooking 
- - [Baking Tips & Techniques](https://www.kingarthurbaking.com/learn/resources/baking-tips-techniques) 
+- [The Who Cares Era](https://dansinker.com/posts/2025-05-23-who-cares/)
+- [The Uggo Police](https://thelampmagazine.com/issues/issue-30/the-uggo-police) 
  
 ##  Games 
  - [Playing to Win](https://www.sirlin.net/ptw)
@@ -110,9 +104,6 @@
 - [Effective Spaced Repetition](https://borretti.me/article/effective-spaced-repetition)
 - [A Syllabus for Generalists](https://syllabusproject.org/a-syllabus-for-generalists/)
 - [You Can Try to Like Stuff](https://dynomight.net/liking/) 
- 
-##  Literature 
- - [Sayaka Murata's Alien Eye](https://www.newyorker.com/magazine/2025/04/14/sayaka-muratas-alien-eye) 
  
 ##  Music 
  - [Blood on the Frets](https://web.archive.org/web/20211205225924/https://www.johnfahey.com/Blood.htm)
@@ -155,6 +146,8 @@
 - [This Living](https://www.newyorker.com/magazine/2024/06/10/this-living-amber-tamblyn-poem)
 - [This is a Test of the Federal Emergency Management Agency Wireless Warning System](https://www.newyorker.com/magazine/2024/08/05/this-is-a-test-of-the-federal-emergency-management-agency-wireless-warning-system-dobby-gibson-poem)
 - [Prelude in Grey Major](https://www.newyorker.com/magazine/2024/12/30/prelude-in-grey-major-christian-wiman-poem)
+- [Ichthys](https://www.newyorker.com/magazine/2025/09/01/ichthys-jay-fielden-poem)
+- [I speak with gravity.](https://www.newyorker.com/magazine/2025/09/15/i-speak-with-gravity-jane-hirshfield-poem)
 - [To Explicate Meaning](https://pastebin.com/raw/kFML7mRK)
 - [Main Merge File, Second Merge File](https://i.imgur.com/heEwbQp.png) 
  
@@ -174,7 +167,8 @@
 - [Notes on Puzzles](https://nabeelqu.substack.com/p/notes-on-puzzles)
 - [The Fragile Connection Between Liking And Wanting Is Crucial To Our Survival](http://thekramerisnow.blogspot.com/2024/03/the-fragile-connection-between-liking.html)
 - [The Battle for Attention](https://www.newyorker.com/magazine/2024/05/06/the-battle-for-attention)
-- [What if the Attention Crisis Is All a Distraction?](https://www.newyorker.com/magazine/2025/01/27/the-sirens-call-chris-hayes-book-review) 
+- [What if the Attention Crisis Is All a Distraction?](https://www.newyorker.com/magazine/2025/01/27/the-sirens-call-chris-hayes-book-review)
+- [Phantasia](https://www.newyorker.com/magazine/2025/11/03/some-people-cant-see-mental-images-the-consequences-are-profound) 
  
 ##  Short Fiction 
  - [Break It Down](https://www.theparisreview.org/fiction/3063/break-it-down-lydia-davis)
@@ -241,7 +235,7 @@
 - [1917‒2017, 100 Years of De Stijl](https://craigberry93.medium.com/1917-2017-100-years-of-de-stijl-581dcc95681)
 - [Masamatsu Sashie](https://kpprojectsgallery.net/artists/masakatsu-sashie/)
 - [Interview with Generative Artist Kjetil Golid](https://www.artnome.com/news/2020/10/11/interview-with-generative-artist-kjetil-golid)
-- [Democratic Graphics: The Political and Graphic Work of Gerd Arntz 1920‒1940](https://designabilities.wordpress.com/2020/12/11/democratic-graphics-the-political-and-graphic-work-of-gerd-arntz-1920-1940/)
+- [Democratic Graphics: The Political and Graphic Work of Gerd Arntz 1920–1940](https://designabilities.wordpress.com/2020/12/11/democratic-graphics-the-political-and-graphic-work-of-gerd-arntz-1920-1940/)
 - [Ragna Róbertsdóttir](https://www.artforum.com/events/ragna-robertsdottir-248913/)
 - [Tauba Auerbach in 'Bodies of Knowledge'](https://art21.org/watch/art-in-the-twenty-first-century/s11/tauba-auerbach-in-bodies-of-knowledge/)
 - [Atypography](https://www.atypography.com/) 
