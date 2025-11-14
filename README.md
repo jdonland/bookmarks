@@ -183,7 +183,8 @@
 - [How To Develop Good Taste, Pt. 1](https://dieworkwear.com/2022/08/26/how-to-develop-good-taste-pt-1/)
 - [How To Develop Good Taste, Pt. 2](https://dieworkwear.com/2022/09/14/how-to-develop-good-taste-pt-2/)
 - [How To Develop Good Taste, Pt. 3](https://dieworkwear.com/2022/09/23/how-to-develop-good-taste-pt-3/)
-- [Articles of Interest - American Ivy](https://articlesofinterest.substack.com/p/american-ivy-chapter-1) 
+- [Articles of Interest - American Ivy](https://articlesofinterest.substack.com/p/american-ivy-chapter-1)
+- [Articles of Interest - Gear](https://articlesofinterest.substack.com/p/gear-chapter-1) 
  
 ##  Typography & Handwriting 
  - [Society for Italic Handwriting](https://www.italic-handwriting.org/)
