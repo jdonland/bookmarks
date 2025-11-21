@@ -17,6 +17,7 @@
 - [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
 - [Socialism's DIY Computer](https://tribunemag.co.uk/2020/07/make-your-own-self-managed-socialist-microcomputer)
 - [How and Why I Stopped Buying New Laptops](https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops/)
+- [How a Slide Rule Works](https://amenzwa.github.io/stem/ComputingHistory/HowSlideRulesWork/)
 - [How To Take Back the Internet by Choosing the Internet Less Traveled](https://cheapskatesguide.org/articles/take-back-the-internet.html)
 - [The Small Website Discoverability Crisis](https://www.marginalia.nu/log/19-website-discoverability-crisis/)
 - [The Old Internet Shows Signs of Quietly Coming Back](https://cheapskatesguide.org/articles/old-internet-coming-back.html)
@@ -125,7 +126,8 @@
 - [So You Want to Study Philosophy...](https://www.susanrigetti.com/philosophy) 
  
 ##  Poetry 
- - [Gift](https://pastebin.com/raw/9fVLX21s)
+ - [Junk](https://i.imgur.com/07d44hT.png)
+- [Gift](https://pastebin.com/raw/9fVLX21s)
 - [The Revolution Will Not Be Televised](https://archive.org/details/spokenwordrevolu0000elev/page/214/mode/2up?view=theater)
 - [LGA-ORD](https://www.newyorker.com/magazine/1980/07/07/lga-ord)
 - [Crows](https://www.newyorker.com/magazine/2000/09/25/crows)
@@ -148,12 +150,14 @@
 - [Prelude in Grey Major](https://www.newyorker.com/magazine/2024/12/30/prelude-in-grey-major-christian-wiman-poem)
 - [Ichthys](https://www.newyorker.com/magazine/2025/09/01/ichthys-jay-fielden-poem)
 - [I speak with gravity.](https://www.newyorker.com/magazine/2025/09/15/i-speak-with-gravity-jane-hirshfield-poem)
+- [The Fifties](https://www.newyorker.com/magazine/2025/11/03/the-fifties-monica-ferrell-poem)
 - [To Explicate Meaning](https://pastebin.com/raw/kFML7mRK)
 - [Main Merge File, Second Merge File](https://i.imgur.com/heEwbQp.png) 
  
 ##  Productivity 
  - [Productivity 101: An Introduction to The Pomodoro Technique](https://lifehacker.com/productivity-101-a-primer-to-the-pomodoro-technique-1598992730)
 - [How a Lazy Bitch Like Me Learned To Be Productive](https://www.madisontaskett.com/lazy-bastard-productivity/)
+- [Things That Aren't Doing the Thing](https://strangestloop.io/essays/things-that-arent-doing-the-thing)
 - [The Case Against Collaboration](https://paulitaylor.com/2022/05/06/the-case-against-collaboration/)
 - [Finish Your Projects](https://github.com/readme/guides/finish-your-projects)
 - [Stopping at 90%](https://austinhenley.com/blog/90percent.html)
