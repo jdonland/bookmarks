@@ -51,7 +51,8 @@
 - [What Happened to Sweaters?](https://www.theatlantic.com/technology/archive/2023/10/sweater-clothing-quality-natural-fibers-fast-fashion/675600/)
 - [Why Every Microwave Sucks These Days, and the Death of Instant Pot](https://moth.monster/blog/microwaves/)
 - [Why Are (Most) Sofas So Bad?](https://www.dwell.com/article/dtc-sofa-crisis-32304b9e)
-- [I'm Tired of Listening to Nerds and Dweebs](https://www.youtube.com/watch?v=3S9OZTQa0eY) 
+- [I'm Tired of Listening to Nerds and Dweebs](https://www.youtube.com/watch?v=3S9OZTQa0eY)
+- [The Ars Technica Guide to Dumb TVs](https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/) 
  
 ##  Culture & Politics 
  - [Amusing Ourselves to Death](https://web.archive.org/web/20100801095556/http://www.recombinantrecords.net/images/2009-05-Amusing-Ourselves-to-Death.pdf)
@@ -124,6 +125,10 @@
 - [The Interpretation of Probability: Still an Open Issue?](https://www.mdpi.com/2409-9287/2/3/20)
 - [It's All Bullsh*t! On the Relationship Between Pseudoscience and Pseudophilosophy](https://medium.com/socrates-cafe/its-all-bullshit-on-the-relationship-between-pseudoscience-and-pseudophilosophy-3485ade26500)
 - [So You Want to Study Philosophy...](https://www.susanrigetti.com/philosophy) 
+ 
+##  Places & People 
+ - [A Surf Legend's Long Ride](https://www.newyorker.com/magazine/2024/06/10/jock-sutherland-profile-surfing)
+- [One of the Greatest Polar-Bear Hunters Confronts a Vanishing World](https://www.newyorker.com/magazine/2025/12/01/one-of-the-greatest-polar-bear-hunters-confronts-a-vanishing-world) 
  
 ##  Poetry 
  - [Junk](https://i.imgur.com/07d44hT.png)
