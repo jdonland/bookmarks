@@ -197,6 +197,7 @@
  
 ##  Typography & Handwriting 
  - [Society for Italic Handwriting](https://www.italic-handwriting.org/)
+- [Visible Language](https://journals.uc.edu/index.php/vl/issue/archive)
 - [A Handwriting Manual](https://archive.org/details/AHandwritingManual/)
 - [Notes on Type Design](https://help.fontlab.com/fontlab/8/tutorials/briem/)
 - [Palatino Nova: A Classical Typeface Redesigned by Hermann Zapf](http://www.linotype.co.jp/P2/Palatino%20nova%20Brochure.pdf)
