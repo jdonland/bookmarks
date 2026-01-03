@@ -245,6 +245,7 @@
 - [Rhythmical Lines](https://www.theparisreview.org/blog/2017/02/15/rhythmical-lines/)
 - [1917‒2017, 100 Years of De Stijl](https://craigberry93.medium.com/1917-2017-100-years-of-de-stijl-581dcc95681)
 - [Masamatsu Sashie](https://kpprojectsgallery.net/artists/masakatsu-sashie/)
+- [Helvetica Blanc](https://helveticablanc.com/artwork-2025.html)
 - [Interview with Generative Artist Kjetil Golid](https://www.artnome.com/news/2020/10/11/interview-with-generative-artist-kjetil-golid)
 - [Democratic Graphics: The Political and Graphic Work of Gerd Arntz 1920–1940](https://designabilities.wordpress.com/2020/12/11/democratic-graphics-the-political-and-graphic-work-of-gerd-arntz-1920-1940/)
 - [Ragna Róbertsdóttir](https://www.artforum.com/events/ragna-robertsdottir-248913/)
