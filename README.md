@@ -35,7 +35,9 @@
 - [Forums Are Still Alive, Active, and a Treasure Trove of Information](https://aftermath.site/best-active-forums-internet-today)
 - [Algorithmic Ranking Is Unfairly Maligned](https://dynomight.net/ranking/)
 - [Pipelining Might Be My Favorite Programming Language Feature](https://herecomesthemoon.net/2025/04/pipelining/)
-- [The Rise of Whatever](https://eev.ee/blog/2025/07/03/the-rise-of-whatever/) 
+- [The Rise of Whatever](https://eev.ee/blog/2025/07/03/the-rise-of-whatever/)
+- [How Markdown Took Over the World](https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/)
+- [The Future of Everything is Lies, I Guess](https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess) 
  
 ##  Consumer Goods 
  - [Uses This](https://usesthis.com/)
@@ -160,7 +162,8 @@
 - [Main Merge File, Second Merge File](https://i.imgur.com/heEwbQp.png) 
  
 ##  Productivity 
- - [Productivity 101: An Introduction to The Pomodoro Technique](https://archive.is/QJXAR)
+ - [Johnny.Decimal](https://johnnydecimal.com/10-19-concepts/11-core/11.01-introduction/)
+- [Productivity 101: An Introduction to The Pomodoro Technique](https://archive.is/QJXAR)
 - [How a Lazy Bitch Like Me Learned To Be Productive](https://www.madisontaskett.com/lazy-bastard-productivity/)
 - [Things That Aren't Doing the Thing](https://strangestloop.io/essays/things-that-arent-doing-the-thing)
 - [The Case Against Collaboration](https://paulitaylor.com/2022/05/06/the-case-against-collaboration/)
@@ -192,13 +195,13 @@
 - [How To Develop Good Taste, Pt. 1](https://dieworkwear.com/2022/08/26/how-to-develop-good-taste-pt-1/)
 - [How To Develop Good Taste, Pt. 2](https://dieworkwear.com/2022/09/14/how-to-develop-good-taste-pt-2/)
 - [How To Develop Good Taste, Pt. 3](https://dieworkwear.com/2022/09/23/how-to-develop-good-taste-pt-3/)
-- [Articles of Interest - American Ivy](https://articlesofinterest.substack.com/p/american-ivy-chapter-1)
-- [Articles of Interest - Gear](https://articlesofinterest.substack.com/p/gear-chapter-1) 
+- [Articles of Interest - American Ivy](https://articlesofinterest.substack.com/p/american-ivy-chapter-1) 
  
 ##  Typography & Handwriting 
  - [Society for Italic Handwriting](https://www.italic-handwriting.org/)
 - [Visible Language](https://journals.uc.edu/index.php/vl/issue/archive)
 - [A Handwriting Manual](https://archive.org/details/AHandwritingManual/)
+- [Canons of Renaissance Handwriting](https://journals.uc.edu/index.php/vl/article/view/5265)
 - [Notes on Type Design](https://help.fontlab.com/fontlab/8/tutorials/briem/)
 - [Palatino Nova: A Classical Typeface Redesigned by Hermann Zapf](http://www.linotype.co.jp/P2/Palatino%20nova%20Brochure.pdf)
 - [Three Typefaces for Mathematics](https://web.archive.org/web/20091229042035/http://www.typeculture.com/academic_resource/articles_essays/pdfs/tc_article_47.pdf)
@@ -210,6 +213,7 @@
 - [Counterspace Typography Timeline](https://timeline.counterspace.us/)
 - [A 17th-Century Font in a 21st-Century Thesis](https://www.linyangchen.com/Typography-Fell-Types-font)
 - [Visual History of the Latin Alphabet](https://uclab.fh-potsdam.de/arete/en)
+- [Trajan Rubbing and Recutting](https://letterformarchive.org/news/this-just-in-trajan-rubbing-and-recutting/)
 - [Converting a Typewriter to Colemak](https://soender.blog/Converting-a-Typewriter-to-Colemak/)
 - [The Doves Type, Revisited](https://www.typeroom.eu/the-doves-type-revisited-robert-green-upgrades-an-iconic-typeface)
 - [Badness 0 (Apostrophe's version)](https://www.youtube.com/watch?v=Y65FRxE7uMc)
@@ -234,7 +238,8 @@
 - [Why Kids Don't Go Outside Anymore](https://www.youtube.com/watch?v=W2nB0zchM4I)
 - [Americans' Love Affair With Big Cars Is Killing Them](https://www.economist.com/interactive/united-states/2024/08/31/americans-love-affair-with-big-cars-is-killing-them)
 - [The Inventor of Transit](https://archive.is/TAiMD)
-- [The Prophet of Parking](https://www.worksinprogress.news/p/the-prophet-of-parking) 
+- [The Prophet of Parking](https://www.worksinprogress.news/p/the-prophet-of-parking)
+- [A Renter's Nightmare](https://macleans.ca/longforms/a-renters-nightmare/) 
  
 ##  Visual Art 
  - [The Codex Seraphinianus](https://www.thebeliever.net/the-codex-seraphinianus/)
