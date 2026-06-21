@@ -80,6 +80,7 @@
 - [Solvability](https://www.sirlin.net/articles/solvability)
 - [D&D is Anti-Medieval](https://www.blogofholding.com/?p=7182)
 - [40+ Great Card Games For All Occasions](https://playingcarddecks.com/blogs/all-in/40-great-card-games-for-all-occasions)
+- [The Everdeck: A Universal Card System](https://thewrongtools.wordpress.com/2019/10/10/the-everdeck/)
 - [Babamots' Homeworlds Site](https://jpeterbaker.github.io/homeworlds/site/index.html)
 - [Hangman Is a Weird Game](https://www.youtube.com/watch?v=le5uGqHKll8)
 - [How To Learn Chess as an Adult](https://www.alexcrompton.com/blog/how-to-learn-chess)
@@ -115,6 +116,7 @@
 - [The Ballad of Geeshie and Elvie](https://www.nytimes.com/interactive/2014/04/13/magazine/blues.html)
 - ['A Real Little Taste Of Heaven': Visionary Guitarist Jack Rose In 11 Songs](https://www.npr.org/sections/therecord/2016/09/20/494234199/-a-real-little-taste-of-heaven-visionary-guitarist-jack-rose-in-11-songs)
 - [Living with John Fahey, AKA A Room Full of Flowers](https://www.kcrw.com/culture/shows/lost-notes/living-with-john-fahey-aka-a-room-full-of-flowers)
+- [Overlooked No More: Robbie Basho, Guitar Mystic Who Sought Enlightenment in Sound](https://www.nytimes.com/2026/06/19/obituaries/robbie-basho-overlooked.html)
 - [A Guide to Imaginational Anthem's 10 Volumes of Stirring American Primitive Guitar](https://daily.bandcamp.com/lists/imaginational-anthem-guide)
 - [Harry Smith's Musical Catalogue of Human Experience](https://www.newyorker.com/magazine/2020/10/05/harry-smiths-musical-catalogue-of-human-experience) 
  
@@ -133,7 +135,8 @@
 - [One of the Greatest Polar-Bear Hunters Confronts a Vanishing World](https://www.newyorker.com/magazine/2025/12/01/one-of-the-greatest-polar-bear-hunters-confronts-a-vanishing-world) 
  
 ##  Poetry 
- - [Junk](https://i.imgur.com/07d44hT.png)
+ - [Paris, mai 1924](https://poets.org/poem/poem-23/print)
+- [Junk](https://i.imgur.com/07d44hT.png)
 - [Gift](https://pastebin.com/raw/9fVLX21s)
 - [The Revolution Will Not Be Televised](https://archive.org/details/spokenwordrevolu0000elev/page/214/mode/2up?view=theater)
 - [LGA-ORD](https://www.newyorker.com/magazine/1980/07/07/lga-ord)
@@ -187,7 +190,8 @@
 - [Second Person, Present Tense](https://www.baen.com/Chapters/9781618248992/9781618248992___2.htm)
 - [MMAcevedo](https://qntm.org/mmacevedo)
 - [Upstate](https://www.newyorker.com/magazine/2023/10/30/upstate-fiction-emma-cline)
-- [The Ideal Candidate Will Be Punched in the Stomach](https://www.scottsmitelli.com/articles/ideal-candidate/) 
+- [The Ideal Candidate Will Be Punched in the Stomach](https://www.scottsmitelli.com/articles/ideal-candidate/)
+- [Enough for Now](https://www.newyorker.com/magazine/2026/04/06/enough-for-now-fiction-cassandra-neyenesch) 
  
 ##  Style 
  - [Barbours in the Falklands](https://putthison.com/barbours-in-the-falklands/)
@@ -219,6 +223,7 @@
 - [Badness 0 (Apostrophe's version)](https://www.youtube.com/watch?v=Y65FRxE7uMc)
 - [The Hardest Working Font in Manhattan](https://aresluna.org/the-hardest-working-font-in-manhattan/)
 - [Pilot Parallel Frankenpens](https://writingatnight.com/pilot-parallel-frankenpens)
+- [The Terrific Experience of Rendering Arabic Typography and Its Technical Debt](https://lr0.org/blog/p/arabic/)
 - [Lloyd Reynolds, Robert Palladino, and Calligraphy at Reed College](https://www.reed.edu/calligraphy/history.html) 
  
 ##  Urbanism & Transit 
@@ -256,7 +261,11 @@
 - [Democratic Graphics: The Political and Graphic Work of Gerd Arntz 1920–1940](https://designabilities.wordpress.com/2020/12/11/democratic-graphics-the-political-and-graphic-work-of-gerd-arntz-1920-1940/)
 - [Ragna Róbertsdóttir](https://www.artforum.com/events/ragna-robertsdottir-248913/)
 - [Tauba Auerbach in 'Bodies of Knowledge'](https://art21.org/watch/art-in-the-twenty-first-century/s11/tauba-auerbach-in-bodies-of-knowledge/)
-- [Atypography](https://www.atypography.com/) 
+- [Atypography](https://www.atypography.com/)
+- [Kawase Hasui](https://ukiyo-e.org/artist/kawase-hasui) 
+ 
+##  Wokr & Money 
+ - [The Rise of Bullshittery](https://マリウス.com/the-rise-of-the-bullshittery/) 
  
 ##  Work & Money 
  - [Pricing Money](http://www.jdawiseman.com/books/pricing-money/Pricing_Money_JDAWiseman.html)
@@ -274,4 +283,5 @@
 - [White-Collar Work Is Just Meetings Now](https://www.theatlantic.com/ideas/archive/2024/07/white-collar-meetings-more-frequent/678941/)
 - [Panic! at the Job Market](https://matt.sh/panic-at-the-job-market)
 - [6 Lessons I Learned Working at an Art Gallery](https://www.henrikkarlsson.xyz/p/art-gallery)
-- [The Case for Index Funds](https://www.youtube.com/watch?v=Nv5CiRSCVxA) 
+- [The Case for Index Funds](https://www.youtube.com/watch?v=Nv5CiRSCVxA)
+- [The 'Passive Income' Trap Ate a Generation of Entrepreneurs](https://www.joanwestenberg.com/the-passive-income-trap-ate-a-generation-of-entrepreneurs/) 
