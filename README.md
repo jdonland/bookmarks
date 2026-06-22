@@ -244,7 +244,8 @@
 - [Americans' Love Affair With Big Cars Is Killing Them](https://www.economist.com/interactive/united-states/2024/08/31/americans-love-affair-with-big-cars-is-killing-them)
 - [The Inventor of Transit](https://archive.is/TAiMD)
 - [The Prophet of Parking](https://www.worksinprogress.news/p/the-prophet-of-parking)
-- [A Renter's Nightmare](https://macleans.ca/longforms/a-renters-nightmare/) 
+- [A Renter's Nightmare](https://macleans.ca/longforms/a-renters-nightmare/)
+- [The Deadly Rise of Giant Trucks and S.U.V.s](https://www.nytimes.com/interactive/2026/06/21/us/trucks-suv-pedestrian-crashes.html) 
  
 ##  Visual Art 
  - [The Codex Seraphinianus](https://www.thebeliever.net/the-codex-seraphinianus/)
@@ -264,9 +265,6 @@
 - [Atypography](https://www.atypography.com/)
 - [Kawase Hasui](https://ukiyo-e.org/artist/kawase-hasui) 
  
-##  Wokr & Money 
- - [The Rise of Bullshittery](https://マリウス.com/the-rise-of-the-bullshittery/) 
- 
 ##  Work & Money 
  - [Pricing Money](http://www.jdawiseman.com/books/pricing-money/Pricing_Money_JDAWiseman.html)
 - [On the Phenomenon of Bullshit Jobs](https://strikemag.org/bullshit-jobs/)
@@ -284,4 +282,5 @@
 - [Panic! at the Job Market](https://matt.sh/panic-at-the-job-market)
 - [6 Lessons I Learned Working at an Art Gallery](https://www.henrikkarlsson.xyz/p/art-gallery)
 - [The Case for Index Funds](https://www.youtube.com/watch?v=Nv5CiRSCVxA)
-- [The 'Passive Income' Trap Ate a Generation of Entrepreneurs](https://www.joanwestenberg.com/the-passive-income-trap-ate-a-generation-of-entrepreneurs/) 
+- [The 'Passive Income' Trap Ate a Generation of Entrepreneurs](https://www.joanwestenberg.com/the-passive-income-trap-ate-a-generation-of-entrepreneurs/)
+- [The Rise of Bullshittery](https://マリウス.com/the-rise-of-the-bullshittery/) 
