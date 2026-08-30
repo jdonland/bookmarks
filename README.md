@@ -69,7 +69,8 @@
 - [The Hawk Tuah Memecoin Rug Pull Is the Apotheosis of Bag Culture](https://defector.com/the-hawk-tuah-memecoin-rug-pull-is-the-apotheosis-of-bag-culture)
 - [The America I Loved Is Gone](https://www.theguardian.com/us-news/ng-interactive/2025/apr/20/american-dream-trump-canada)
 - [The Who Cares Era](https://dansinker.com/posts/2025-05-23-who-cares/)
-- [The Uggo Police](https://thelampmagazine.com/issues/issue-30/the-uggo-police) 
+- [The Uggo Police](https://thelampmagazine.com/issues/issue-30/the-uggo-police)
+- [The Internet Is Kind of a Predatory Cesspit Now](https://www.stephendiehl.com/posts/internet_predatory_cesspit/) 
  
 ##  Games 
  - [Playing to Win](https://www.sirlin.net/ptw)
@@ -166,6 +167,7 @@
  
 ##  Productivity 
  - [Johnny.Decimal](https://johnnydecimal.com/10-19-concepts/11-core/11.01-introduction/)
+- [Seeking the Productive Life: Some Details of My Personal Infrastructure](https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/)
 - [Productivity 101: An Introduction to The Pomodoro Technique](https://archive.is/QJXAR)
 - [How a Lazy Bitch Like Me Learned To Be Productive](https://www.madisontaskett.com/lazy-bastard-productivity/)
 - [Things That Aren't Doing the Thing](https://strangestloop.io/essays/things-that-arent-doing-the-thing)
@@ -183,7 +185,8 @@
 - [The Fragile Connection Between Liking And Wanting Is Crucial To Our Survival](http://thekramerisnow.blogspot.com/2024/03/the-fragile-connection-between-liking.html)
 - [The Battle for Attention](https://www.newyorker.com/magazine/2024/05/06/the-battle-for-attention)
 - [What if the Attention Crisis Is All a Distraction?](https://www.newyorker.com/magazine/2025/01/27/the-sirens-call-chris-hayes-book-review)
-- [Phantasia](https://www.newyorker.com/magazine/2025/11/03/some-people-cant-see-mental-images-the-consequences-are-profound) 
+- [Phantasia](https://www.newyorker.com/magazine/2025/11/03/some-people-cant-see-mental-images-the-consequences-are-profound)
+- [Incentives Are for Losers](https://www.experimental-history.com/p/incentives-are-for-losers) 
  
 ##  Short Fiction 
  - [Break It Down](https://www.theparisreview.org/fiction/3063/break-it-down-lydia-davis)
@@ -245,7 +248,8 @@
 - [The Inventor of Transit](https://archive.is/TAiMD)
 - [The Prophet of Parking](https://www.worksinprogress.news/p/the-prophet-of-parking)
 - [A Renter's Nightmare](https://macleans.ca/longforms/a-renters-nightmare/)
-- [The Deadly Rise of Giant Trucks and S.U.V.s](https://www.nytimes.com/interactive/2026/06/21/us/trucks-suv-pedestrian-crashes.html) 
+- [The Deadly Rise of Giant Trucks and S.U.V.s](https://www.nytimes.com/interactive/2026/06/21/us/trucks-suv-pedestrian-crashes.html)
+- [America Hates Bikes](https://www.youtube.com/watch?v=dWHCef7F8gY) 
  
 ##  Visual Art 
  - [The Codex Seraphinianus](https://www.thebeliever.net/the-codex-seraphinianus/)
