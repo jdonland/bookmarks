@@ -7,7 +7,8 @@
 - [LOL, CAT: The Best Internet is "Weird Heathcliff" Internet](https://theoutline.com/post/4084/the-internet-oddballs-who-think-the-heathcliff-comics-are-deep)
 - [Usagi Yojimbo's Neverending Story](https://www.tcj.com/usagi-yojimbos-neverending-story/)
 - [Everybody's Mad About Heathcliff](https://solrad.co/everybodys-mad-about-heathcliff)
-- [Celebrating the Timeless Allure of Tintin's Aesthetics](https://collegetowns.substack.com/p/celebrating-the-timeless-allure-of) 
+- [Celebrating the Timeless Allure of Tintin's Aesthetics](https://collegetowns.substack.com/p/celebrating-the-timeless-allure-of)
+- [Calvin and Hobbes and the Price of Integrity](https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of) 
  
 ##  Computers & The Web 
  - [Why Nothing Works Anymore](https://www.theatlantic.com/technology/archive/2017/02/the-singularity-in-the-toilet-stall/517551/)
@@ -100,7 +101,8 @@
 - [The World's Writing Systems](https://www.worldswritingsystems.org/)
 - [IPA: Symbols of Power?](http://pronpack.com/ipa-symbols-of-power/2/)
 - [Why These English Phonetic Symbols Are All Wrong](https://www.youtube.com/watch?v=gtnlGH055TA)
-- [mi kama sona e toki pona or Something](https://cohost.org/mcc/post/59045-mi-kama-sona-e-toki) 
+- [mi kama sona e toki pona or Something](https://cohost.org/mcc/post/59045-mi-kama-sona-e-toki)
+- [English: A vs An](https://www.redblobgames.com/x/2635-a-vs-an/) 
  
 ##  Learning 
  - [Increasing Retention Without Increasing Study Time](https://files.eric.ed.gov/fulltext/ED505647.pdf)
@@ -202,7 +204,8 @@
 - [How To Develop Good Taste, Pt. 1](https://dieworkwear.com/2022/08/26/how-to-develop-good-taste-pt-1/)
 - [How To Develop Good Taste, Pt. 2](https://dieworkwear.com/2022/09/14/how-to-develop-good-taste-pt-2/)
 - [How To Develop Good Taste, Pt. 3](https://dieworkwear.com/2022/09/23/how-to-develop-good-taste-pt-3/)
-- [Articles of Interest - American Ivy](https://articlesofinterest.substack.com/p/american-ivy-chapter-1) 
+- [Articles of Interest - American Ivy](https://articlesofinterest.substack.com/p/american-ivy-chapter-1)
+- [100 Years / 100 People](https://66north.com/blogs/66-blog/100-people) 
  
 ##  Typography & Handwriting 
  - [Society for Italic Handwriting](https://www.italic-handwriting.org/)
