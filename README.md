@@ -156,6 +156,7 @@
 - [Disinhibitor](https://www.newyorker.com/magazine/2023/12/18/disinhibitor-ariana-reines-poem)
 - [Late Shift](https://www.newyorker.com/magazine/2024/03/18/late-shift-amy-woolard-poem)
 - [The Hymn](https://www.newyorker.com/magazine/2024/04/01/the-hymn-marie-howe-poem)
+- [Bay Area Rapid Tankas](https://bart.short-edition.com/story/bay-area-rapid-tankas?ctlg=4386)
 - [Laundry](https://www.newyorker.com/magazine/2024/05/06/laundry-ellen-bass-poem)
 - [This Living](https://www.newyorker.com/magazine/2024/06/10/this-living-amber-tamblyn-poem)
 - [This is a Test of the Federal Emergency Management Agency Wireless Warning System](https://www.newyorker.com/magazine/2024/08/05/this-is-a-test-of-the-federal-emergency-management-agency-wireless-warning-system-dobby-gibson-poem)
@@ -164,6 +165,7 @@
 - [I speak with gravity.](https://www.newyorker.com/magazine/2025/09/15/i-speak-with-gravity-jane-hirshfield-poem)
 - [The Fifties](https://www.newyorker.com/magazine/2025/11/03/the-fifties-monica-ferrell-poem)
 - [On Form](https://www.newyorker.com/magazine/2026/06/29/on-form-linda-gregerson-poem)
+- [Ode to Being Born with Teeth and Sharpening Them Every Day](https://www.newyorker.com/magazine/2026/09/14/ode-to-being-born-with-teeth-and-sharpening-them-every-day-barbara-hamby-poem)
 - [To Explicate Meaning](https://pastebin.com/raw/kFML7mRK)
 - [Main Merge File, Second Merge File](https://i.imgur.com/heEwbQp.png) 
  
@@ -188,7 +190,8 @@
 - [The Battle for Attention](https://www.newyorker.com/magazine/2024/05/06/the-battle-for-attention)
 - [What if the Attention Crisis Is All a Distraction?](https://www.newyorker.com/magazine/2025/01/27/the-sirens-call-chris-hayes-book-review)
 - [Phantasia](https://www.newyorker.com/magazine/2025/11/03/some-people-cant-see-mental-images-the-consequences-are-profound)
-- [Incentives Are for Losers](https://www.experimental-history.com/p/incentives-are-for-losers) 
+- [Incentives Are for Losers](https://www.experimental-history.com/p/incentives-are-for-losers)
+- [Is Will Power Overrated?](https://www.newyorker.com/magazine/2026/09/21/situated-angela-duckworth-book-review) 
  
 ##  Short Fiction 
  - [Break It Down](https://www.theparisreview.org/fiction/3063/break-it-down-lydia-davis)
